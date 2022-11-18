@@ -1,0 +1,1001 @@
+Student_ID,City,wage,Note,Accepted
+100,OuedZem,15906,Passable,Yes
+101,Khenifra,18817,Bien,Yes
+102,OuedZem,9275,Moyene,Yes
+103,Khouribga,14013,Moyene,Yes
+104,OuedZem,9594,Bien,Yes
+105,Azilal,16218,Tres Bien,Yes
+106,OuedZem,7244,Tres Bien,Yes
+107,Beni Mellal,16838,Passable,Yes
+108,Beni Mellal,16277,Passable,Yes
+109,Tadla,16658,Bien,Yes
+110,Azilal,8449,Tres Bien,Yes
+111,OuedZem,5830,Moyene,No
+112,Azilal,16891,Bien,Yes
+113,OuedZem,16674,Tres Bien,Yes
+114,Khenifra,9339,Tres Bien,Yes
+115,Khouribga,14169,Bien,Yes
+116,OuedZem,5474,Moyene,No
+117,Beni Mellal,6473,Passable,No
+118,Khouribga,12837,Bien,Yes
+119,Khouribga,19719,Moyene,Yes
+120,OuedZem,11297,Tres Bien,Yes
+121,OuedZem,17988,Passable,Yes
+122,Beni Mellal,6018,Moyene,No
+123,Azilal,19011,Moyene,Yes
+124,Tadla,17078,Tres Bien,Yes
+125,Azilal,10847,Passable,Yes
+126,Beni Mellal,5666,Bien,Yes
+127,Khouribga,14365,Moyene,Yes
+128,Tadla,9686,Moyene,Yes
+129,OuedZem,11532,Passable,Yes
+130,Khouribga,18684,Passable,Yes
+131,Khenifra,17193,Bien,Yes
+132,Azilal,15375,Tres Bien,Yes
+133,Azilal,7870,Bien,Yes
+134,Khenifra,12650,Passable,Yes
+135,Azilal,5667,Tres Bien,Yes
+136,Khouribga,19555,Moyene,Yes
+137,OuedZem,15170,Bien,Yes
+138,Beni Mellal,16628,Passable,Yes
+139,OuedZem,5683,Tres Bien,Yes
+140,Tadla,10835,Moyene,Yes
+141,Khouribga,13778,Bien,Yes
+142,Beni Mellal,12371,Moyene,Yes
+143,Khenifra,19439,Moyene,Yes
+144,Khenifra,12355,Bien,Yes
+145,OuedZem,8454,Tres Bien,Yes
+146,Tadla,12205,Moyene,Yes
+147,Azilal,12262,Passable,Yes
+148,Beni Mellal,12369,Bien,Yes
+149,Beni Mellal,12733,Bien,Yes
+150,Tadla,10193,Passable,Yes
+151,Tadla,12958,Moyene,Yes
+152,Khouribga,10802,Tres Bien,Yes
+153,Khenifra,19658,Tres Bien,Yes
+154,Tadla,9125,Passable,Yes
+155,Beni Mellal,14351,Moyene,Yes
+156,Khenifra,10320,Tres Bien,Yes
+157,Azilal,19633,Tres Bien,Yes
+158,Beni Mellal,9135,Passable,Yes
+159,Khenifra,6441,Moyene,No
+160,Beni Mellal,12226,Bien,Yes
+161,Beni Mellal,18714,Bien,Yes
+162,Azilal,14774,Moyene,Yes
+163,Khenifra,18967,Moyene,Yes
+164,Khouribga,17490,Passable,Yes
+165,Beni Mellal,19956,Passable,Yes
+166,Azilal,13032,Moyene,Yes
+167,Beni Mellal,11783,Bien,Yes
+168,Tadla,11815,Bien,Yes
+169,Khenifra,18032,Tres Bien,Yes
+170,Beni Mellal,11576,Passable,Yes
+171,Beni Mellal,13781,Passable,Yes
+172,Azilal,18137,Bien,Yes
+173,Tadla,12000,Bien,Yes
+174,Tadla,8723,Passable,Yes
+175,Khouribga,11983,Moyene,Yes
+176,Khouribga,18254,Bien,Yes
+177,Khenifra,14710,Bien,Yes
+178,Khenifra,6981,Bien,Yes
+179,Khenifra,10115,Passable,Yes
+180,OuedZem,6466,Tres Bien,Yes
+181,OuedZem,9791,Moyene,Yes
+182,Azilal,10737,Bien,Yes
+183,Azilal,9994,Passable,Yes
+184,Beni Mellal,18905,Passable,Yes
+185,Beni Mellal,9170,Passable,Yes
+186,OuedZem,17918,Bien,Yes
+187,Tadla,15519,Passable,Yes
+188,OuedZem,8046,Bien,Yes
+189,Khouribga,15978,Bien,Yes
+190,OuedZem,13948,Passable,Yes
+191,Tadla,13612,Moyene,Yes
+192,Tadla,16023,Moyene,Yes
+193,OuedZem,9567,Bien,Yes
+194,Khouribga,13136,Passable,Yes
+195,Khenifra,8861,Tres Bien,Yes
+196,Beni Mellal,16321,Passable,Yes
+197,Khouribga,12247,Tres Bien,Yes
+198,Azilal,6597,Tres Bien,Yes
+199,Khouribga,14715,Moyene,Yes
+200,Azilal,7705,Moyene,No
+201,Khenifra,12996,Tres Bien,Yes
+202,OuedZem,18651,Bien,Yes
+203,OuedZem,12397,Tres Bien,Yes
+204,Khenifra,5323,Moyene,No
+205,OuedZem,12693,Moyene,Yes
+206,Khenifra,10882,Passable,Yes
+207,Tadla,11679,Bien,Yes
+208,Beni Mellal,11098,Bien,Yes
+209,Khenifra,6222,Bien,Yes
+210,Khenifra,8830,Moyene,Yes
+211,Azilal,6203,Bien,Yes
+212,OuedZem,11700,Bien,Yes
+213,Azilal,14695,Moyene,Yes
+214,Khouribga,12065,Moyene,Yes
+215,Azilal,11621,Tres Bien,Yes
+216,Tadla,14268,Passable,Yes
+217,Tadla,6484,Moyene,No
+218,Khouribga,9284,Bien,Yes
+219,Beni Mellal,12308,Passable,Yes
+220,Beni Mellal,11822,Passable,Yes
+221,Khenifra,16147,Bien,Yes
+222,OuedZem,18110,Tres Bien,Yes
+223,Azilal,13613,Bien,Yes
+224,Tadla,16707,Tres Bien,Yes
+225,Beni Mellal,17901,Bien,Yes
+226,Tadla,7175,Tres Bien,Yes
+227,Khouribga,17167,Moyene,Yes
+228,Khenifra,13849,Passable,Yes
+229,Beni Mellal,12661,Bien,Yes
+230,Azilal,17161,Passable,Yes
+231,Azilal,15131,Tres Bien,Yes
+232,Beni Mellal,19740,Moyene,Yes
+233,Khenifra,15853,Passable,Yes
+234,OuedZem,13614,Bien,Yes
+235,Azilal,10968,Moyene,Yes
+236,Tadla,12676,Bien,Yes
+237,OuedZem,6061,Passable,No
+238,OuedZem,11893,Tres Bien,Yes
+239,Beni Mellal,15338,Bien,Yes
+240,Tadla,11880,Passable,Yes
+241,Khouribga,9055,Passable,Yes
+242,Khouribga,12246,Bien,Yes
+243,OuedZem,6830,Bien,Yes
+244,Tadla,18626,Tres Bien,Yes
+245,Khouribga,12005,Bien,Yes
+246,Khenifra,16813,Passable,Yes
+247,Beni Mellal,6899,Tres Bien,Yes
+248,OuedZem,9314,Bien,Yes
+249,Khenifra,9501,Moyene,Yes
+250,Azilal,19794,Passable,Yes
+251,OuedZem,8428,Tres Bien,Yes
+252,OuedZem,19953,Moyene,Yes
+253,Khouribga,12287,Bien,Yes
+254,Azilal,7521,Bien,Yes
+255,Beni Mellal,6532,Moyene,No
+256,Azilal,9177,Tres Bien,Yes
+257,Khouribga,19293,Moyene,Yes
+258,Azilal,5786,Tres Bien,Yes
+259,Khouribga,6862,Moyene,No
+260,OuedZem,15288,Tres Bien,Yes
+261,Khenifra,7202,Tres Bien,Yes
+262,OuedZem,8287,Passable,No
+263,Khouribga,6217,Passable,No
+264,OuedZem,11914,Tres Bien,Yes
+265,Khenifra,5641,Moyene,No
+266,Beni Mellal,12210,Bien,Yes
+267,Beni Mellal,17828,Tres Bien,Yes
+268,Beni Mellal,6730,Bien,Yes
+269,Tadla,13885,Tres Bien,Yes
+270,Tadla,12706,Passable,Yes
+271,Tadla,13169,Moyene,Yes
+272,Beni Mellal,18707,Bien,Yes
+273,Khouribga,17258,Moyene,Yes
+274,OuedZem,13698,Bien,Yes
+275,Azilal,14648,Tres Bien,Yes
+276,Azilal,14733,Passable,Yes
+277,Azilal,12626,Tres Bien,Yes
+278,OuedZem,5766,Moyene,No
+279,Tadla,18336,Bien,Yes
+280,OuedZem,10097,Bien,Yes
+281,Azilal,17650,Bien,Yes
+282,Tadla,9108,Tres Bien,Yes
+283,OuedZem,6594,Bien,Yes
+284,Beni Mellal,19800,Passable,Yes
+285,Beni Mellal,8309,Bien,Yes
+286,Beni Mellal,9139,Moyene,Yes
+287,Beni Mellal,16980,Passable,Yes
+288,Khouribga,9639,Passable,Yes
+289,Azilal,11702,Moyene,Yes
+290,Khenifra,11975,Bien,Yes
+291,Khenifra,5738,Passable,No
+292,Azilal,7820,Passable,No
+293,Khenifra,13572,Tres Bien,Yes
+294,OuedZem,9693,Moyene,Yes
+295,Khenifra,7565,Moyene,No
+296,Azilal,12844,Tres Bien,Yes
+297,OuedZem,11449,Bien,Yes
+298,Tadla,12137,Bien,Yes
+299,Beni Mellal,18380,Passable,Yes
+300,Beni Mellal,12708,Tres Bien,Yes
+301,OuedZem,7166,Moyene,No
+302,Khenifra,7393,Bien,Yes
+303,Azilal,19949,Bien,Yes
+304,Tadla,17759,Moyene,Yes
+305,Khenifra,15170,Moyene,Yes
+306,Tadla,8285,Bien,Yes
+307,OuedZem,10339,Passable,Yes
+308,Khouribga,19735,Tres Bien,Yes
+309,Khenifra,16670,Passable,Yes
+310,Khenifra,17755,Tres Bien,Yes
+311,Azilal,5080,Moyene,No
+312,Tadla,10952,Bien,Yes
+313,Khouribga,7186,Moyene,No
+314,Khenifra,14721,Bien,Yes
+315,Khouribga,5811,Bien,Yes
+316,Tadla,7956,Bien,Yes
+317,Azilal,12947,Bien,Yes
+318,Azilal,6142,Passable,No
+319,OuedZem,10386,Passable,Yes
+320,Tadla,6105,Passable,No
+321,Khouribga,12020,Moyene,Yes
+322,Khenifra,15162,Moyene,Yes
+323,OuedZem,8784,Tres Bien,Yes
+324,Beni Mellal,14900,Passable,Yes
+325,Tadla,11121,Bien,Yes
+326,OuedZem,10335,Moyene,Yes
+327,Khenifra,11372,Bien,Yes
+328,Beni Mellal,16861,Passable,Yes
+329,Tadla,6992,Tres Bien,Yes
+330,Tadla,7396,Moyene,No
+331,Beni Mellal,10201,Bien,Yes
+332,OuedZem,8514,Moyene,Yes
+333,Azilal,13923,Moyene,Yes
+334,Beni Mellal,19674,Moyene,Yes
+335,OuedZem,9498,Tres Bien,Yes
+336,Tadla,8169,Moyene,No
+337,Azilal,8915,Passable,Yes
+338,Beni Mellal,7180,Passable,No
+339,OuedZem,10067,Passable,Yes
+340,Beni Mellal,7083,Moyene,No
+341,Khouribga,12118,Tres Bien,Yes
+342,Azilal,11881,Moyene,Yes
+343,Tadla,16566,Moyene,Yes
+344,OuedZem,13163,Bien,Yes
+345,Khouribga,10471,Moyene,Yes
+346,Khouribga,16055,Passable,Yes
+347,Tadla,13286,Tres Bien,Yes
+348,Tadla,18922,Passable,Yes
+349,Azilal,16648,Moyene,Yes
+350,Tadla,9398,Passable,Yes
+351,Beni Mellal,5654,Passable,No
+352,Khouribga,14249,Bien,Yes
+353,Tadla,8355,Passable,Yes
+354,Beni Mellal,9824,Passable,Yes
+355,Khenifra,9483,Bien,Yes
+356,Khenifra,9385,Bien,Yes
+357,Tadla,14549,Moyene,Yes
+358,Tadla,18024,Passable,Yes
+359,Khenifra,9436,Moyene,Yes
+360,Beni Mellal,15097,Tres Bien,Yes
+361,Beni Mellal,6471,Passable,No
+362,Khouribga,17604,Moyene,Yes
+363,OuedZem,9250,Tres Bien,Yes
+364,Azilal,13405,Tres Bien,Yes
+365,Azilal,9360,Moyene,Yes
+366,Azilal,15944,Moyene,Yes
+367,OuedZem,6770,Tres Bien,Yes
+368,Tadla,17039,Moyene,Yes
+369,Beni Mellal,14860,Passable,Yes
+370,Beni Mellal,14524,Moyene,Yes
+371,Khenifra,16661,Tres Bien,Yes
+372,Beni Mellal,18920,Bien,Yes
+373,OuedZem,9469,Moyene,Yes
+374,Khenifra,17417,Tres Bien,Yes
+375,Khenifra,10175,Bien,Yes
+376,OuedZem,19677,Passable,Yes
+377,Beni Mellal,8281,Passable,No
+378,Khenifra,18303,Tres Bien,Yes
+379,Beni Mellal,12774,Passable,Yes
+380,Azilal,14714,Moyene,Yes
+381,Azilal,7945,Moyene,No
+382,Khenifra,8343,Passable,Yes
+383,Beni Mellal,15751,Bien,Yes
+384,Beni Mellal,17428,Tres Bien,Yes
+385,Beni Mellal,7837,Tres Bien,Yes
+386,Khenifra,10001,Passable,Yes
+387,Beni Mellal,18269,Tres Bien,Yes
+388,Azilal,12680,Moyene,Yes
+389,Beni Mellal,8645,Passable,Yes
+390,Tadla,16503,Moyene,Yes
+391,Khenifra,15104,Tres Bien,Yes
+392,Khouribga,18919,Moyene,Yes
+393,Azilal,10562,Bien,Yes
+394,Beni Mellal,18260,Bien,Yes
+395,Azilal,9353,Bien,Yes
+396,Khenifra,16728,Tres Bien,Yes
+397,Khouribga,17016,Bien,Yes
+398,Tadla,8053,Passable,No
+399,Khouribga,10720,Tres Bien,Yes
+400,Khenifra,12527,Bien,Yes
+401,OuedZem,17453,Bien,Yes
+402,Tadla,6546,Moyene,No
+403,Khouribga,5628,Passable,No
+404,Khenifra,19861,Bien,Yes
+405,Azilal,19962,Bien,Yes
+406,Beni Mellal,12253,Bien,Yes
+407,Azilal,11135,Passable,Yes
+408,Tadla,14080,Passable,Yes
+409,Khouribga,13278,Bien,Yes
+410,OuedZem,6145,Moyene,No
+411,Khouribga,6383,Bien,Yes
+412,Khouribga,12941,Bien,Yes
+413,Tadla,7628,Passable,No
+414,Tadla,18004,Moyene,Yes
+415,Khenifra,6787,Tres Bien,Yes
+416,Khouribga,15250,Bien,Yes
+417,Tadla,13187,Passable,Yes
+418,OuedZem,16268,Passable,Yes
+419,Khenifra,17539,Tres Bien,Yes
+420,Khouribga,5941,Passable,No
+421,OuedZem,5238,Passable,No
+422,Khenifra,10878,Bien,Yes
+423,Azilal,19276,Passable,Yes
+424,Khenifra,5365,Moyene,No
+425,OuedZem,18658,Tres Bien,Yes
+426,Khenifra,11500,Bien,Yes
+427,OuedZem,14446,Bien,Yes
+428,Beni Mellal,11070,Bien,Yes
+429,Azilal,6640,Tres Bien,Yes
+430,Khenifra,7568,Tres Bien,Yes
+431,Khouribga,13396,Tres Bien,Yes
+432,Tadla,15692,Bien,Yes
+433,Azilal,9307,Bien,Yes
+434,Tadla,6966,Tres Bien,Yes
+435,Khenifra,7451,Tres Bien,Yes
+436,Khenifra,13669,Tres Bien,Yes
+437,Tadla,19008,Moyene,Yes
+438,Khouribga,17030,Tres Bien,Yes
+439,Khenifra,7553,Passable,No
+440,Tadla,8720,Moyene,Yes
+441,Azilal,6417,Passable,No
+442,Azilal,15092,Tres Bien,Yes
+443,Azilal,15568,Tres Bien,Yes
+444,OuedZem,12280,Tres Bien,Yes
+445,Beni Mellal,10206,Passable,Yes
+446,Azilal,8966,Moyene,Yes
+447,Khouribga,16624,Passable,Yes
+448,Khouribga,6709,Bien,Yes
+449,Tadla,16241,Passable,Yes
+450,Khenifra,12570,Bien,Yes
+451,Khenifra,14208,Bien,Yes
+452,Khenifra,15885,Tres Bien,Yes
+453,Tadla,18299,Passable,Yes
+454,Khenifra,7035,Bien,Yes
+455,Beni Mellal,17589,Passable,Yes
+456,Beni Mellal,14697,Passable,Yes
+457,Khenifra,11996,Passable,Yes
+458,Khouribga,7465,Tres Bien,Yes
+459,Khenifra,17083,Moyene,Yes
+460,Azilal,18243,Tres Bien,Yes
+461,Khenifra,8333,Tres Bien,Yes
+462,Khenifra,17815,Tres Bien,Yes
+463,Khenifra,7074,Bien,Yes
+464,OuedZem,17111,Moyene,Yes
+465,Tadla,11649,Tres Bien,Yes
+466,Azilal,11720,Tres Bien,Yes
+467,Tadla,12499,Passable,Yes
+468,Azilal,19431,Bien,Yes
+469,Azilal,9241,Tres Bien,Yes
+470,Azilal,8786,Bien,Yes
+471,Azilal,14320,Moyene,Yes
+472,OuedZem,10868,Tres Bien,Yes
+473,Azilal,12036,Moyene,Yes
+474,OuedZem,14881,Tres Bien,Yes
+475,OuedZem,7963,Moyene,No
+476,Tadla,17055,Bien,Yes
+477,OuedZem,9766,Bien,Yes
+478,Tadla,17500,Bien,Yes
+479,Khouribga,7650,Tres Bien,Yes
+480,OuedZem,10055,Moyene,Yes
+481,Khenifra,15149,Passable,Yes
+482,Khenifra,8985,Passable,Yes
+483,Azilal,12813,Tres Bien,Yes
+484,Khouribga,14954,Bien,Yes
+485,Beni Mellal,17278,Tres Bien,Yes
+486,Khouribga,18849,Passable,Yes
+487,Khouribga,19243,Moyene,Yes
+488,OuedZem,9140,Tres Bien,Yes
+489,Khouribga,9004,Passable,Yes
+490,Tadla,11543,Moyene,Yes
+491,OuedZem,15719,Tres Bien,Yes
+492,Beni Mellal,19696,Tres Bien,Yes
+493,Khenifra,5930,Bien,Yes
+494,Tadla,14669,Bien,Yes
+495,Azilal,7600,Passable,No
+496,OuedZem,6933,Moyene,No
+497,Khenifra,12914,Passable,Yes
+498,Khenifra,13838,Moyene,Yes
+499,OuedZem,17504,Passable,Yes
+500,Azilal,10865,Tres Bien,Yes
+501,Beni Mellal,6097,Tres Bien,Yes
+502,OuedZem,6317,Moyene,No
+503,Khouribga,13789,Tres Bien,Yes
+504,Tadla,5159,Tres Bien,Yes
+505,Tadla,19719,Bien,Yes
+506,OuedZem,19352,Tres Bien,Yes
+507,Beni Mellal,7753,Tres Bien,Yes
+508,Tadla,14821,Passable,Yes
+509,Tadla,17121,Tres Bien,Yes
+510,Azilal,12103,Tres Bien,Yes
+511,Azilal,9422,Bien,Yes
+512,Khenifra,8994,Passable,Yes
+513,Beni Mellal,6772,Tres Bien,Yes
+514,Azilal,10853,Passable,Yes
+515,Khenifra,10388,Bien,Yes
+516,OuedZem,10608,Moyene,Yes
+517,Tadla,12735,Tres Bien,Yes
+518,Khouribga,19171,Tres Bien,Yes
+519,OuedZem,12671,Passable,Yes
+520,OuedZem,10701,Bien,Yes
+521,OuedZem,8886,Bien,Yes
+522,Khouribga,8109,Moyene,No
+523,Beni Mellal,7136,Tres Bien,Yes
+524,Beni Mellal,14731,Passable,Yes
+525,Khouribga,8594,Moyene,Yes
+526,OuedZem,5728,Bien,Yes
+527,Azilal,15193,Moyene,Yes
+528,Khenifra,13252,Tres Bien,Yes
+529,OuedZem,9500,Bien,Yes
+530,Khouribga,16725,Passable,Yes
+531,Tadla,10820,Passable,Yes
+532,Khouribga,12747,Moyene,Yes
+533,Khouribga,13445,Moyene,Yes
+534,Beni Mellal,17730,Passable,Yes
+535,Khenifra,15049,Bien,Yes
+536,Khouribga,19951,Tres Bien,Yes
+537,Khouribga,12064,Moyene,Yes
+538,Khouribga,12255,Bien,Yes
+539,Tadla,10226,Tres Bien,Yes
+540,Khouribga,15949,Moyene,Yes
+541,Khouribga,18973,Moyene,Yes
+542,Tadla,7717,Passable,No
+543,Khenifra,10416,Moyene,Yes
+544,Azilal,5209,Bien,Yes
+545,Beni Mellal,15248,Passable,Yes
+546,Tadla,16482,Passable,Yes
+547,Khenifra,16076,Bien,Yes
+548,Beni Mellal,7782,Tres Bien,Yes
+549,Tadla,6234,Passable,No
+550,Khenifra,8705,Tres Bien,Yes
+551,OuedZem,15430,Tres Bien,Yes
+552,Khouribga,17488,Tres Bien,Yes
+553,Khouribga,19360,Tres Bien,Yes
+554,OuedZem,18465,Passable,Yes
+555,Khouribga,9816,Passable,Yes
+556,Azilal,11091,Tres Bien,Yes
+557,Khouribga,12121,Passable,Yes
+558,OuedZem,15643,Tres Bien,Yes
+559,Azilal,17464,Tres Bien,Yes
+560,Khenifra,11830,Tres Bien,Yes
+561,Beni Mellal,8869,Bien,Yes
+562,Beni Mellal,9691,Passable,Yes
+563,OuedZem,14265,Passable,Yes
+564,Beni Mellal,6380,Moyene,No
+565,Khouribga,12977,Passable,Yes
+566,OuedZem,8760,Moyene,Yes
+567,Azilal,19480,Passable,Yes
+568,Tadla,8159,Passable,No
+569,Beni Mellal,19195,Moyene,Yes
+570,Tadla,16509,Passable,Yes
+571,Khouribga,10223,Passable,Yes
+572,Khouribga,18261,Tres Bien,Yes
+573,Azilal,18479,Tres Bien,Yes
+574,Tadla,5759,Bien,Yes
+575,Azilal,14030,Passable,Yes
+576,Azilal,13235,Passable,Yes
+577,Khouribga,7819,Passable,No
+578,Khenifra,8264,Moyene,No
+579,Tadla,8676,Passable,Yes
+580,Azilal,6890,Bien,Yes
+581,Beni Mellal,13823,Tres Bien,Yes
+582,Tadla,18011,Passable,Yes
+583,Azilal,8509,Tres Bien,Yes
+584,Khenifra,15369,Bien,Yes
+585,Tadla,5614,Tres Bien,Yes
+586,Beni Mellal,19631,Passable,Yes
+587,Khenifra,8428,Moyene,Yes
+588,Khouribga,11653,Tres Bien,Yes
+589,Beni Mellal,7457,Passable,No
+590,Khouribga,6501,Moyene,No
+591,Khenifra,16761,Bien,Yes
+592,Azilal,5002,Moyene,No
+593,Tadla,8610,Tres Bien,Yes
+594,Beni Mellal,10042,Bien,Yes
+595,Khouribga,18946,Passable,Yes
+596,Khenifra,12136,Passable,Yes
+597,Azilal,14421,Bien,Yes
+598,Beni Mellal,6910,Bien,Yes
+599,Khenifra,14138,Moyene,Yes
+600,Khouribga,5906,Passable,No
+601,Khouribga,16603,Tres Bien,Yes
+602,Khouribga,5650,Tres Bien,Yes
+603,Khouribga,7331,Moyene,No
+604,Azilal,7743,Moyene,No
+605,Khenifra,7364,Tres Bien,Yes
+606,Khenifra,16420,Moyene,Yes
+607,Beni Mellal,12121,Tres Bien,Yes
+608,OuedZem,8048,Passable,No
+609,Beni Mellal,8775,Passable,Yes
+610,Khenifra,10886,Passable,Yes
+611,OuedZem,17871,Moyene,Yes
+612,Khouribga,10815,Bien,Yes
+613,Azilal,19894,Tres Bien,Yes
+614,Beni Mellal,11134,Passable,Yes
+615,OuedZem,7932,Moyene,No
+616,OuedZem,15732,Bien,Yes
+617,Tadla,17466,Moyene,Yes
+618,Tadla,11721,Moyene,Yes
+619,Khouribga,5089,Tres Bien,Yes
+620,Khenifra,8843,Bien,Yes
+621,Khouribga,13852,Moyene,Yes
+622,Beni Mellal,5552,Passable,No
+623,Azilal,12911,Moyene,Yes
+624,Beni Mellal,9886,Tres Bien,Yes
+625,Azilal,8959,Moyene,Yes
+626,Khenifra,19394,Tres Bien,Yes
+627,Khouribga,16556,Tres Bien,Yes
+628,Azilal,6949,Passable,No
+629,Khouribga,9054,Tres Bien,Yes
+630,Tadla,12776,Tres Bien,Yes
+631,Khouribga,10367,Moyene,Yes
+632,Azilal,10979,Bien,Yes
+633,Beni Mellal,18372,Tres Bien,Yes
+634,Azilal,6088,Passable,No
+635,OuedZem,17949,Tres Bien,Yes
+636,Beni Mellal,5022,Bien,Yes
+637,Khenifra,11422,Tres Bien,Yes
+638,Khouribga,12904,Moyene,Yes
+639,OuedZem,12181,Tres Bien,Yes
+640,Tadla,6878,Bien,Yes
+641,Azilal,12765,Moyene,Yes
+642,OuedZem,8421,Passable,Yes
+643,OuedZem,15328,Bien,Yes
+644,Khouribga,18706,Bien,Yes
+645,Tadla,15078,Moyene,Yes
+646,Beni Mellal,17712,Passable,Yes
+647,Beni Mellal,19237,Tres Bien,Yes
+648,Beni Mellal,15009,Moyene,Yes
+649,Khenifra,14361,Tres Bien,Yes
+650,OuedZem,6185,Tres Bien,Yes
+651,Khenifra,9368,Tres Bien,Yes
+652,Beni Mellal,5465,Passable,No
+653,Azilal,6067,Passable,No
+654,Beni Mellal,5026,Tres Bien,Yes
+655,Beni Mellal,6373,Tres Bien,Yes
+656,Tadla,5153,Moyene,No
+657,OuedZem,16110,Moyene,Yes
+658,Tadla,13583,Passable,Yes
+659,Azilal,11481,Tres Bien,Yes
+660,Beni Mellal,13337,Bien,Yes
+661,Azilal,14374,Tres Bien,Yes
+662,Tadla,7568,Tres Bien,Yes
+663,Beni Mellal,19789,Passable,Yes
+664,Azilal,8868,Tres Bien,Yes
+665,Beni Mellal,12298,Bien,Yes
+666,Tadla,15895,Tres Bien,Yes
+667,Tadla,17807,Passable,Yes
+668,Tadla,15917,Passable,Yes
+669,OuedZem,15197,Tres Bien,Yes
+670,Khenifra,7635,Passable,No
+671,OuedZem,19385,Moyene,Yes
+672,Beni Mellal,14224,Passable,Yes
+673,Azilal,16983,Tres Bien,Yes
+674,Beni Mellal,19016,Passable,Yes
+675,OuedZem,9564,Passable,Yes
+676,Beni Mellal,9613,Passable,Yes
+677,Beni Mellal,19414,Passable,Yes
+678,Beni Mellal,11967,Passable,Yes
+679,Khouribga,13282,Passable,Yes
+680,Azilal,12690,Tres Bien,Yes
+681,Khouribga,10240,Moyene,Yes
+682,Khenifra,13491,Bien,Yes
+683,Khouribga,14372,Moyene,Yes
+684,Khenifra,9805,Moyene,Yes
+685,Khenifra,15128,Moyene,Yes
+686,Khouribga,19335,Passable,Yes
+687,Beni Mellal,7250,Moyene,No
+688,Khenifra,14566,Passable,Yes
+689,Tadla,18333,Tres Bien,Yes
+690,Tadla,5872,Tres Bien,Yes
+691,Azilal,14280,Passable,Yes
+692,Beni Mellal,16092,Bien,Yes
+693,Khouribga,18250,Passable,Yes
+694,Beni Mellal,9822,Passable,Yes
+695,OuedZem,7635,Moyene,No
+696,OuedZem,10884,Tres Bien,Yes
+697,Khouribga,13479,Tres Bien,Yes
+698,Tadla,11917,Moyene,Yes
+699,Tadla,7334,Bien,Yes
+700,OuedZem,18957,Tres Bien,Yes
+701,Khouribga,5822,Tres Bien,Yes
+702,Tadla,8161,Moyene,No
+703,Beni Mellal,16992,Passable,Yes
+704,Azilal,10737,Moyene,Yes
+705,Beni Mellal,13877,Bien,Yes
+706,Khouribga,5636,Passable,No
+707,Tadla,6207,Moyene,No
+708,Beni Mellal,7323,Bien,Yes
+709,Tadla,12430,Bien,Yes
+710,Khouribga,17446,Passable,Yes
+711,Khenifra,15191,Moyene,Yes
+712,Beni Mellal,16388,Moyene,Yes
+713,OuedZem,19388,Passable,Yes
+714,OuedZem,9928,Passable,Yes
+715,Beni Mellal,14315,Moyene,Yes
+716,Khenifra,17218,Bien,Yes
+717,Khouribga,18180,Bien,Yes
+718,Azilal,12976,Tres Bien,Yes
+719,Khenifra,14908,Bien,Yes
+720,Khenifra,14707,Moyene,Yes
+721,OuedZem,17561,Moyene,Yes
+722,Tadla,9925,Tres Bien,Yes
+723,OuedZem,19967,Tres Bien,Yes
+724,Khouribga,12321,Bien,Yes
+725,Tadla,7213,Passable,No
+726,Azilal,9722,Passable,Yes
+727,Beni Mellal,7894,Moyene,No
+728,Beni Mellal,11195,Passable,Yes
+729,OuedZem,18937,Moyene,Yes
+730,Beni Mellal,9603,Passable,Yes
+731,Khouribga,12643,Bien,Yes
+732,OuedZem,15716,Tres Bien,Yes
+733,Azilal,10427,Moyene,Yes
+734,Khenifra,5177,Passable,No
+735,Azilal,9262,Tres Bien,Yes
+736,OuedZem,19210,Bien,Yes
+737,Khenifra,5542,Passable,No
+738,Khenifra,6247,Bien,Yes
+739,Khouribga,15441,Moyene,Yes
+740,Beni Mellal,12987,Passable,Yes
+741,Khenifra,13042,Passable,Yes
+742,Azilal,17105,Passable,Yes
+743,Khenifra,14664,Bien,Yes
+744,Beni Mellal,7665,Passable,No
+745,Khouribga,13149,Passable,Yes
+746,Azilal,11417,Bien,Yes
+747,Beni Mellal,13375,Bien,Yes
+748,Beni Mellal,19266,Tres Bien,Yes
+749,Tadla,12387,Moyene,Yes
+750,Khenifra,12830,Tres Bien,Yes
+751,Tadla,11793,Tres Bien,Yes
+752,Khenifra,13549,Passable,Yes
+753,Tadla,5008,Moyene,No
+754,Azilal,18775,Tres Bien,Yes
+755,Khenifra,17897,Passable,Yes
+756,Azilal,6744,Bien,Yes
+757,Beni Mellal,15587,Passable,Yes
+758,Khenifra,19077,Passable,Yes
+759,Beni Mellal,7505,Tres Bien,Yes
+760,Azilal,14320,Passable,Yes
+761,Beni Mellal,6835,Tres Bien,Yes
+762,Beni Mellal,17961,Tres Bien,Yes
+763,Azilal,13593,Moyene,Yes
+764,Khenifra,14935,Tres Bien,Yes
+765,Azilal,13874,Tres Bien,Yes
+766,Khenifra,9176,Tres Bien,Yes
+767,Tadla,17918,Bien,Yes
+768,Khouribga,8437,Tres Bien,Yes
+769,Beni Mellal,7787,Bien,Yes
+770,Khouribga,12497,Passable,Yes
+771,Azilal,7563,Passable,No
+772,Azilal,10574,Moyene,Yes
+773,Khenifra,17444,Moyene,Yes
+774,Khouribga,12798,Passable,Yes
+775,Beni Mellal,13349,Moyene,Yes
+776,Khouribga,14301,Tres Bien,Yes
+777,Tadla,14796,Moyene,Yes
+778,Khenifra,17634,Bien,Yes
+779,Khenifra,5878,Moyene,No
+780,Khouribga,5625,Passable,No
+781,Khouribga,11173,Moyene,Yes
+782,Azilal,14091,Bien,Yes
+783,Beni Mellal,7103,Moyene,No
+784,Azilal,8077,Tres Bien,Yes
+785,Tadla,5229,Passable,No
+786,Azilal,13790,Moyene,Yes
+787,Azilal,5948,Bien,Yes
+788,Beni Mellal,14184,Passable,Yes
+789,OuedZem,14325,Moyene,Yes
+790,Khouribga,18204,Bien,Yes
+791,Tadla,18122,Passable,Yes
+792,OuedZem,19577,Passable,Yes
+793,Azilal,9124,Bien,Yes
+794,Khenifra,5986,Bien,Yes
+795,Azilal,12412,Bien,Yes
+796,OuedZem,16776,Tres Bien,Yes
+797,Khouribga,10835,Moyene,Yes
+798,Tadla,15491,Passable,Yes
+799,OuedZem,12915,Tres Bien,Yes
+800,Beni Mellal,19482,Tres Bien,Yes
+801,Khouribga,11749,Bien,Yes
+802,Khouribga,11433,Bien,Yes
+803,OuedZem,13166,Bien,Yes
+804,Khouribga,18214,Bien,Yes
+805,OuedZem,13061,Passable,Yes
+806,Azilal,10937,Bien,Yes
+807,Azilal,12971,Passable,Yes
+808,Khouribga,11389,Bien,Yes
+809,Khouribga,18441,Moyene,Yes
+810,Khenifra,16568,Passable,Yes
+811,Khenifra,14456,Moyene,Yes
+812,Azilal,16904,Moyene,Yes
+813,Tadla,10107,Tres Bien,Yes
+814,Tadla,18882,Tres Bien,Yes
+815,Khouribga,17177,Bien,Yes
+816,Khouribga,12254,Passable,Yes
+817,Azilal,19807,Bien,Yes
+818,Beni Mellal,14794,Tres Bien,Yes
+819,Tadla,12748,Bien,Yes
+820,OuedZem,7877,Bien,Yes
+821,Azilal,10845,Tres Bien,Yes
+822,Azilal,11405,Bien,Yes
+823,Khouribga,9121,Tres Bien,Yes
+824,OuedZem,12311,Bien,Yes
+825,Beni Mellal,19316,Passable,Yes
+826,Azilal,11344,Tres Bien,Yes
+827,Tadla,13673,Tres Bien,Yes
+828,Tadla,14273,Moyene,Yes
+829,OuedZem,6845,Tres Bien,Yes
+830,Khenifra,15242,Bien,Yes
+831,Khenifra,5505,Passable,No
+832,Azilal,9441,Bien,Yes
+833,Azilal,11016,Tres Bien,Yes
+834,OuedZem,19598,Tres Bien,Yes
+835,Azilal,16528,Tres Bien,Yes
+836,Khenifra,7855,Bien,Yes
+837,Beni Mellal,6268,Moyene,No
+838,Khenifra,12480,Passable,Yes
+839,Tadla,10396,Tres Bien,Yes
+840,Beni Mellal,16091,Passable,Yes
+841,Beni Mellal,11585,Tres Bien,Yes
+842,Khenifra,18687,Passable,Yes
+843,Azilal,12663,Passable,Yes
+844,Beni Mellal,9425,Passable,Yes
+845,Khenifra,5918,Bien,Yes
+846,Beni Mellal,6442,Moyene,No
+847,Khouribga,15332,Passable,Yes
+848,Azilal,10174,Passable,Yes
+849,OuedZem,9206,Bien,Yes
+850,Khenifra,11112,Moyene,Yes
+851,Tadla,12947,Passable,Yes
+852,Azilal,5972,Moyene,No
+853,Beni Mellal,7964,Tres Bien,Yes
+854,Azilal,7779,Passable,No
+855,Khouribga,14237,Moyene,Yes
+856,Khenifra,19392,Tres Bien,Yes
+857,Tadla,7575,Passable,No
+858,OuedZem,7536,Bien,Yes
+859,Khouribga,5884,Passable,No
+860,OuedZem,10609,Moyene,Yes
+861,Khouribga,11258,Tres Bien,Yes
+862,Tadla,6018,Bien,Yes
+863,Khenifra,17722,Passable,Yes
+864,Khenifra,10585,Moyene,Yes
+865,Tadla,10907,Bien,Yes
+866,Azilal,8191,Tres Bien,Yes
+867,Khenifra,16947,Tres Bien,Yes
+868,Tadla,5528,Bien,Yes
+869,Azilal,17048,Passable,Yes
+870,Khouribga,6340,Moyene,No
+871,Khouribga,8339,Passable,Yes
+872,Khenifra,7547,Bien,Yes
+873,Azilal,19495,Tres Bien,Yes
+874,Beni Mellal,5906,Passable,No
+875,Azilal,17014,Bien,Yes
+876,Khouribga,12393,Tres Bien,Yes
+877,Tadla,18924,Passable,Yes
+878,Azilal,18629,Passable,Yes
+879,Azilal,5136,Moyene,No
+880,OuedZem,10040,Passable,Yes
+881,Tadla,15596,Tres Bien,Yes
+882,Khenifra,8588,Bien,Yes
+883,Tadla,9223,Moyene,Yes
+884,Khenifra,8105,Tres Bien,Yes
+885,OuedZem,16156,Tres Bien,Yes
+886,Beni Mellal,13483,Passable,Yes
+887,Beni Mellal,5139,Tres Bien,Yes
+888,OuedZem,10208,Passable,Yes
+889,Beni Mellal,10608,Bien,Yes
+890,Tadla,11365,Passable,Yes
+891,Azilal,14603,Bien,Yes
+892,Tadla,19342,Moyene,Yes
+893,OuedZem,11225,Bien,Yes
+894,Tadla,16978,Moyene,Yes
+895,OuedZem,11155,Bien,Yes
+896,Khouribga,5111,Bien,Yes
+897,OuedZem,10135,Moyene,Yes
+898,Khouribga,5754,Moyene,No
+899,Azilal,8207,Bien,Yes
+900,Azilal,11381,Passable,Yes
+901,OuedZem,16530,Tres Bien,Yes
+902,Khenifra,7623,Bien,Yes
+903,Azilal,14837,Passable,Yes
+904,OuedZem,19287,Moyene,Yes
+905,Tadla,14018,Tres Bien,Yes
+906,Khenifra,15330,Passable,Yes
+907,OuedZem,5273,Tres Bien,Yes
+908,Azilal,18020,Passable,Yes
+909,Khouribga,9969,Passable,Yes
+910,Tadla,19796,Bien,Yes
+911,Khouribga,13137,Moyene,Yes
+912,Tadla,7729,Tres Bien,Yes
+913,Khenifra,12374,Bien,Yes
+914,Khenifra,11205,Tres Bien,Yes
+915,Azilal,8635,Tres Bien,Yes
+916,Tadla,12703,Moyene,Yes
+917,Tadla,18337,Tres Bien,Yes
+918,OuedZem,8817,Moyene,Yes
+919,Beni Mellal,7525,Tres Bien,Yes
+920,OuedZem,16419,Passable,Yes
+921,Azilal,9937,Passable,Yes
+922,Azilal,16148,Passable,Yes
+923,Beni Mellal,19682,Passable,Yes
+924,Azilal,19235,Passable,Yes
+925,Beni Mellal,5079,Bien,Yes
+926,Beni Mellal,12993,Bien,Yes
+927,Azilal,7814,Moyene,No
+928,Khouribga,7502,Tres Bien,Yes
+929,OuedZem,17987,Moyene,Yes
+930,Khenifra,14487,Bien,Yes
+931,Khenifra,19760,Bien,Yes
+932,Beni Mellal,18780,Tres Bien,Yes
+933,OuedZem,16799,Passable,Yes
+934,Beni Mellal,6986,Passable,No
+935,OuedZem,10280,Tres Bien,Yes
+936,Azilal,18834,Bien,Yes
+937,Tadla,11427,Bien,Yes
+938,Tadla,11109,Bien,Yes
+939,Azilal,12914,Moyene,Yes
+940,Khenifra,13248,Tres Bien,Yes
+941,OuedZem,19386,Moyene,Yes
+942,Khouribga,13464,Moyene,Yes
+943,Khouribga,18823,Tres Bien,Yes
+944,Khenifra,15547,Tres Bien,Yes
+945,OuedZem,7088,Bien,Yes
+946,OuedZem,18291,Bien,Yes
+947,Tadla,19125,Tres Bien,Yes
+948,Tadla,5148,Bien,Yes
+949,OuedZem,9028,Moyene,Yes
+950,Beni Mellal,12049,Bien,Yes
+951,Khenifra,15276,Bien,Yes
+952,OuedZem,11622,Passable,Yes
+953,Azilal,19750,Bien,Yes
+954,Tadla,9254,Moyene,Yes
+955,Khouribga,19603,Passable,Yes
+956,Beni Mellal,12787,Bien,Yes
+957,Azilal,18461,Moyene,Yes
+958,Khenifra,16395,Bien,Yes
+959,Khenifra,7713,Tres Bien,Yes
+960,Beni Mellal,8376,Passable,Yes
+961,Khouribga,13953,Tres Bien,Yes
+962,Tadla,19105,Tres Bien,Yes
+963,Khenifra,5212,Bien,Yes
+964,Beni Mellal,19798,Tres Bien,Yes
+965,Beni Mellal,11965,Bien,Yes
+966,OuedZem,12230,Moyene,Yes
+967,Beni Mellal,17757,Passable,Yes
+968,Khenifra,18452,Moyene,Yes
+969,Azilal,7397,Tres Bien,Yes
+970,Khenifra,6178,Passable,No
+971,OuedZem,9892,Passable,Yes
+972,OuedZem,14542,Moyene,Yes
+973,OuedZem,8522,Passable,Yes
+974,Tadla,14828,Moyene,Yes
+975,OuedZem,19686,Tres Bien,Yes
+976,Beni Mellal,8763,Moyene,Yes
+977,Tadla,17728,Moyene,Yes
+978,Khouribga,8868,Bien,Yes
+979,Khouribga,15483,Moyene,Yes
+980,Beni Mellal,12083,Passable,Yes
+981,Khouribga,17516,Tres Bien,Yes
+982,OuedZem,12061,Bien,Yes
+983,Beni Mellal,12600,Moyene,Yes
+984,Beni Mellal,15405,Bien,Yes
+985,Tadla,14646,Passable,Yes
+986,Khouribga,6570,Moyene,No
+987,Khouribga,16497,Passable,Yes
+988,Khouribga,12368,Moyene,Yes
+989,Khouribga,6464,Moyene,No
+990,Tadla,5433,Tres Bien,Yes
+991,Khouribga,17977,Bien,Yes
+992,Beni Mellal,14374,Bien,Yes
+993,OuedZem,6420,Moyene,No
+994,Khenifra,8091,Bien,Yes
+995,OuedZem,9409,Bien,Yes
+996,OuedZem,13873,Tres Bien,Yes
+997,OuedZem,5680,Moyene,No
+998,Azilal,19167,Tres Bien,Yes
+999,OuedZem,8221,Passable,No
+1000,Beni Mellal,12701,Tres Bien,Yes
+1001,Azilal,6165,Passable,No
+1002,Khouribga,5549,Bien,Yes
+1003,Beni Mellal,10605,Bien,Yes
+1004,Azilal,11964,Bien,Yes
+1005,Khenifra,19013,Moyene,Yes
+1006,OuedZem,16165,Bien,Yes
+1007,Khenifra,8212,Passable,No
+1008,Khenifra,19003,Tres Bien,Yes
+1009,Tadla,8781,Bien,Yes
+1010,Khenifra,12933,Bien,Yes
+1011,Beni Mellal,11913,Bien,Yes
+1012,OuedZem,10314,Tres Bien,Yes
+1013,Beni Mellal,14636,Tres Bien,Yes
+1014,Khouribga,9674,Passable,Yes
+1015,OuedZem,9750,Bien,Yes
+1016,OuedZem,7364,Passable,No
+1017,Khouribga,18784,Passable,Yes
+1018,Azilal,5945,Moyene,No
+1019,Beni Mellal,7280,Passable,No
+1020,Beni Mellal,8099,Tres Bien,Yes
+1021,Beni Mellal,5684,Tres Bien,Yes
+1022,OuedZem,13233,Passable,Yes
+1023,Beni Mellal,8905,Bien,Yes
+1024,Azilal,8440,Passable,Yes
+1025,Khenifra,13075,Tres Bien,Yes
+1026,Beni Mellal,9630,Bien,Yes
+1027,Azilal,8315,Passable,No
+1028,Tadla,5945,Tres Bien,Yes
+1029,Khouribga,14443,Tres Bien,Yes
+1030,Beni Mellal,13456,Bien,Yes
+1031,Tadla,7066,Passable,No
+1032,Khenifra,13473,Tres Bien,Yes
+1033,Khouribga,9807,Bien,Yes
+1034,OuedZem,19313,Passable,Yes
+1035,Tadla,6064,Bien,Yes
+1036,Tadla,7760,Passable,No
+1037,Tadla,18312,Passable,Yes
+1038,Khouribga,18416,Moyene,Yes
+1039,Tadla,16319,Bien,Yes
+1040,Tadla,13271,Passable,Yes
+1041,Azilal,7691,Moyene,No
+1042,Khenifra,13675,Tres Bien,Yes
+1043,OuedZem,10114,Passable,Yes
+1044,Beni Mellal,10115,Passable,Yes
+1045,Khouribga,8821,Tres Bien,Yes
+1046,Azilal,9979,Bien,Yes
+1047,Beni Mellal,19543,Passable,Yes
+1048,OuedZem,7233,Passable,No
+1049,OuedZem,14444,Passable,Yes
+1050,Khouribga,7683,Passable,No
+1051,Khouribga,16795,Passable,Yes
+1052,Tadla,14209,Passable,Yes
+1053,Azilal,7167,Tres Bien,Yes
+1054,Beni Mellal,5508,Moyene,No
+1055,OuedZem,14748,Passable,Yes
+1056,OuedZem,12554,Moyene,Yes
+1057,Tadla,18390,Moyene,Yes
+1058,Khenifra,19103,Moyene,Yes
+1059,OuedZem,16599,Tres Bien,Yes
+1060,Azilal,10777,Bien,Yes
+1061,Tadla,19561,Bien,Yes
+1062,Tadla,11953,Bien,Yes
+1063,Khouribga,12053,Tres Bien,Yes
+1064,Khouribga,8191,Tres Bien,Yes
+1065,Azilal,11513,Bien,Yes
+1066,Khenifra,8349,Moyene,Yes
+1067,OuedZem,8675,Bien,Yes
+1068,Tadla,6220,Moyene,No
+1069,Khenifra,19203,Tres Bien,Yes
+1070,OuedZem,7023,Bien,Yes
+1071,Beni Mellal,10463,Tres Bien,Yes
+1072,Azilal,6544,Tres Bien,Yes
+1073,Azilal,10813,Passable,Yes
+1074,Khenifra,6764,Tres Bien,Yes
+1075,Khenifra,14736,Bien,Yes
+1076,OuedZem,10609,Moyene,Yes
+1077,Tadla,18025,Tres Bien,Yes
+1078,Beni Mellal,15949,Tres Bien,Yes
+1079,Khouribga,13851,Passable,Yes
+1080,Tadla,8455,Tres Bien,Yes
+1081,Khenifra,13036,Moyene,Yes
+1082,Beni Mellal,7666,Bien,Yes
+1083,Tadla,15715,Moyene,Yes
+1084,Khenifra,17966,Passable,Yes
+1085,Beni Mellal,8241,Moyene,No
+1086,Tadla,16127,Tres Bien,Yes
+1087,Khouribga,17463,Passable,Yes
+1088,Azilal,18134,Tres Bien,Yes
+1089,Khenifra,12543,Bien,Yes
+1090,Khouribga,10789,Bien,Yes
+1091,Beni Mellal,9969,Moyene,Yes
+1092,Beni Mellal,9828,Passable,Yes
+1093,Azilal,18543,Bien,Yes
+1094,Khouribga,5518,Tres Bien,Yes
+1095,Khouribga,8456,Moyene,Yes
+1096,Azilal,6216,Bien,Yes
+1097,Khenifra,6389,Moyene,No
+1098,Beni Mellal,14696,Tres Bien,Yes
+1099,Tadla,13624,Passable,Yes

@@ -1,0 +1,9 @@
+=IF(((A2*40)/100)-(B2-C2-D2) > 3000, 1,0)
+benimellal: if wage between 8000-15000, then rent between 800-2000dh, food between 600-1500dh, and transport between 300-600dh
+benimellal: if wage between 3000-8000, then rent between 500-1400dh, food beteen 400-1000dh, and transport between 180-400dh
+casablanca: if wage between 8000-20000, then rent between 1800-4000dh, food between 1200-2000dh, and transport between 400-700dh
+casablanca: if wage between 3000-8000, then rent between 1200-1800dh, food beteen 900-1300dh, and transport between 350-600dh
+
+rent: either solo or with colocs(2-3)
+food: homemade, eating outside
+transport: bus, tram, taxi

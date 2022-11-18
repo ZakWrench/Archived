@@ -1,0 +1,23 @@
+what is 30%(z) of 72000(y) = 21600 >> formula: x = (y * z) / 100
+percentage = parts / whole * 100 ( p17 w40 > 17/40 = 0.425 * 100 = 42.5
+
+mwp(6000) * 12months(12) = ywp * 30(third of ywp) / 100 = 21600 < 30000 then can't afford
+
+
+=(((D2 * 12) * 30) / 100)
+=IF(D5="S","Small","Large")
+
+etudes de dossier70, etude situation familial 60% 30
+
+= IF((((C2*12)*30)/100)>30000)
+= IF((((C2*12)*30)/100)>30000, Yes,)
+= IF((((C2*12)*30)/100)>30000, Yes,IF(OR(D2 ="Bien",D2="Tres Bien"), Yes,NO))
+
+
+
+
+100000 sample >
+50.000(12.500 * 4) can afford
+50.000 can't afford
+
+basic2.csv 48000no/52000yes =IF((((G2*12)*30)/100)>30000,"Yes","No")

@@ -1,0 +1,27 @@
+Student_ID, Gender, Age, City, School Tuition, Signup,
+
+Grades, Parent_Wage, Can_Afford
+
+Grades, Parent_Wage, Scholarship, Can_Afford
+
+Grades, Parent_Wage, Competence, Scholarship, Can_Afford
+OR
+Grades, Parent_Wage, Rural, Scholarship, Can_Afford
+
+Grades, Parent_Wage, Competence, Rural, Scholarship, Can_Afford
+
+------------------
+Add Age, City, and Gender as independant variables aswell
+
+
+
+
+
+------------
+
+100000 sample >
+50.000(12.500 * 4) can afford
+50.000 can't afford
+
+basic2.csv 48000no/52000yes =IF((((G2*12)*30)/100)>30000,"Yes","No")
+

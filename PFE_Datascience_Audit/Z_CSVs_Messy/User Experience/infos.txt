@@ -1,0 +1,9 @@
+first:3000 rows 4/3/3 99%
+second:100000 rows 4/3/3 99%
+third: 50000 rows 40/30/30 89%
+
+
+website: time spent on website, how many hops through website, inscription, 
+social media: time spent on social media page, interactivity with posts(likes, comments), sharing contents from page, watchtime on videos posted on page
+contact: time spent in-call/reception/how fast messaging, parent/student/client contentment from the interaction.
+ 
