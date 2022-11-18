@@ -1,2 +1,2 @@
 # Archived
-A compilation of stuffs I've worked on in the past year(Python,R,Machine Learning,JS)
+A compilation of stuffs I've worked on between 2021-2022(Python,R,Machine Learning,JS)
