@@ -1,0 +1,47 @@
+npm install -g lighthouse
+
+create json file called budget containing the following script:
+[
+  {
+    "path": "/*",
+    "timings": [
+      {
+        "metric": "interactive",
+        "budget": 3000
+      },
+      {
+        "metric": "first-meaningful-paint",
+        "budget": 1000
+      }
+    ],
+    "resourceSizes": [
+      {
+        "resourceType": "script",
+        "budget": 125
+      },
+      {
+        "resourceType": "total",
+        "budget": 300
+      }
+    ],
+    "resourceCounts": [
+      {
+        "resourceType": "third-party",
+        "budget": 10
+      }
+    ]
+  }
+]
+
+This example budget.json file sets five separate budgets:
+
+    A budget of 3000ms for Time to Interactive.
+    A budget of 1000ms for First Meaningful Paint
+    A budget of 125 KB for the total amount of JavaScript on the page.
+    A budget of 300 KB for the overall size of the page.
+    A budget of 10 requests for the number of requests made to third-party origins.
+
+3- run the code:lighthouse https://supmti.ac.ma/ --budget-path=*/budget.json 
+(* being the path of json file, for example: C:\Users\Fadil\Desktop\budget.json)
+
+4-  an html report will be generated in C:\Users\Fadil

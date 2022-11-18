@@ -1,0 +1,5 @@
+<img class="img-responsive logo_transparent_static visible" src="https://supmti.ac.ma/wp-content/uploads/2021/04/supmti-logo-reconnu-01.png" style="height: 73px; width: 150px;" alt="SupMTI &#8211; Reconnue par l&#039;Etat- Écoles Supérieures de Management, de Télécommunications et d&#039;Informatique"/>
+									        </a>
+
+<img class="lazy lazy-hidden"  src="//supmti.ac.ma/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://supmti.ac.ma/wp-content/uploads/2021/03/IMG_7545.jpg" style="height: 352px; width: 570px;" alt="Orientation et  succès  scolaire : l’école SUPMTI Beni mélal  et Fondation Tamkine signent un partenariat" /><noscript><img  src="https://supmti.ac.ma/wp-content/uploads/2021/03/IMG_7545.jpg" alt="Orientation et  succès  scolaire : l’école SUPMTI Beni mélal  et Fondation Tamkine signent un partenariat" /></noscript>
+#also all the remaining images need to be in webp with their respective ratio in contrast to their iframes or whatever they're containted within.
