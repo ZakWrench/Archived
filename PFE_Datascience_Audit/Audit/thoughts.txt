@@ -1,0 +1,9 @@
+assuming majority of times google detect majority of ip address from the region beni-kh as they are coming exclusively from khouribga
+> either adapt the website to be found from khouribga as the first source and then beni mellal as second(thought this might create confusion in accordance to google map since it will shows a sample of the map from khouribga)
+> or try to fix their geolocation to point to benimellal correctly more often
+> or adapt the website to cover the whole beni mellal - khenifra area
+apparently iam.ma is the one responsible for ip address assignment depending on where they assign each of their address ip pool to each area.
+google map wrongfully geolocalise majority of ip address in khouribga, but doing ip address lookup correct this mistake
+
+-> try to intice students to check their scores, courses, ... within the website to ensure more interactivity.
+-> check bounce rate between all the subdomains of the website

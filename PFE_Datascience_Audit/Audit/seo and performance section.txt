@@ -1,0 +1,38 @@
+SEO & Performance
+
+
+Lighthouse report
+
+
+
+
+
+
+
+
+
+TTFB
+
+
+HTTP2
+
+HTTP3 
+
+HTTP/3 & QUIC
+
+
+Page Loader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
