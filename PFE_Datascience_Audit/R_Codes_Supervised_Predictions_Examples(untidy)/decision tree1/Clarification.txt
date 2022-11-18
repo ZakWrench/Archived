@@ -1,0 +1,23 @@
+21 features(
+LB : FHR baseline(beats per minute)
+AC : # of accelerations per second
+FM : # of fetal movements per second
+UC : # of uterine contractions per second
+DL : # of light decelerations per second
+DS : # of severe decelerations PS
+DP : # of prolongued decelerations PS
+ASTV : Percentage of time with abnormal short term variability
+MSTV : mean value of short term variability
+ALTV : Percentage of time with abnormal long term variability
+MLTV : mean value of long term variability
+Width: width of FHR histogram
+Min : minimum of FHR histogram
+Max: Maximum of FHR histogram
+Nmax : # of histogram peaks
+Nzeros: # of histogram zeros
+mode : histogram mode
+Mean : histogram mean 
+Median: histogram median
+Variance: histogram variance
+Tendency: histogram tendency )
+NSP: fetal state class code (N=normal, S=suspect, P=pathologic) ---> Responce

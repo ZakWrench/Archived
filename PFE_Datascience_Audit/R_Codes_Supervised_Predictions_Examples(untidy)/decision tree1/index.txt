@@ -1,0 +1,7 @@
+
+- Illustrates the process using cardiotocographic data
+- Decision tree and interpretation with party package
+- Decision tree and interpretation with rpart package
+- Plot with rpart.plot
+- Prediction for validation dataset based on model build using training dataset
+- Calculation of misclassification error
