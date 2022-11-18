@@ -1,0 +1,7 @@
+<li class="active"><a style="border:0" data-toggle="tab" href="#facebook"><img class="lazy lazy-hidden img-responsive" alt="facebook Ecole Superiere Sup MTI" src="//supmti.ac.ma/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://supmti.ac.ma/wp-content/uploads/2021/07/facebook.png" width="70"><noscript><img class="img-responsive" src="https://supmti.ac.ma/wp-content/uploads/2021/07/facebook.png" width="70"></noscript></a></li>
+			
+<li><a data-toggle="tab" href="#instagram"><img class="lazy lazy-hidden img-responsive" alt="Instagram Ecole Superiere Sup MTI" src="//supmti.ac.ma/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://supmti.ac.ma/wp-content/uploads/2021/07/instagram.png" width="70"><noscript><img class="img-responsive" src="https://supmti.ac.ma/wp-content/uploads/2021/07/instagram.png" width="70"></noscript></a></li>
+			
+			
+			
+			

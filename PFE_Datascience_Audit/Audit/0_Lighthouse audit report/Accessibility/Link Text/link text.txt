@@ -1,0 +1,2 @@
+            <li class="active"><a style="border:0" data-toggle="tab" href="#facebook"><img class="lazy lazy-hidden img-responsive" src="//supmti.ac.ma/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://supmti.ac.ma/wp-content/uploads/2021/07/facebook.png" width="70"><noscript><img class="img-responsive" src="https://supmti.ac.ma/wp-content/uploads/2021/07/facebook.png" width="70"></noscript> 
+			Facebook Ecole superieure SupMTI</a></li>
