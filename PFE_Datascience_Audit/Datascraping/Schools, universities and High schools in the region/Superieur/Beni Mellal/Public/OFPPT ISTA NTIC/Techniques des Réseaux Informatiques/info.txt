@@ -1,0 +1,61 @@
+Présentation de la formation
+
+Le Technicien Spécialisé en Réseaux Informatiques est un professionnel chargé d’exploiter, sécuriser, optimiser et faire évoluer les ressources informatiques de l’entreprise.Il est le garant de la qualité du service attendu par l’informatique. Il prend en charge le support technique auprès des utilisateurs et apporte des solutions aux différents problèmes qu’ils rencontrent dans l’utilisation des moyens informatiques.
+
+
+Profil de formation:
+
+A l’issue de la formation, le lauréat sera en mesure d'exécuter les activités suivantes :
+
+Au niveau du support technique­
+
+    Assurer un support technique auprès des utilisateurs de l’informatique­
+    Assurer la gestion du parc informatique de l’entreprise­
+    Suivre et faire évoluer le dispositif informatique­
+    Diagnostiquer et résoudre les problèmes sur les postes de travail et serveurs d’entreprise­
+    Suivre et organiser le suivi des pannes et des interventions auprès des utilisateursAu niveau de la maintenance ­
+    Dépanner les micro-ordinateurs, les serveurs, le réseau­
+    Suivre et faire évoluer les systèmes d’exploitationAu niveau système­
+    Installer et administrer un poste de travail­
+    Installer et administrer un système d’exploitation réseau­
+    Installer et administrer les serveurs d’application (messagerie, serveur web,...)
+
+Au niveau du réseau ­
+
+    Concevoir et planifier l’implantation d’un réseau local d’entreprise­
+    Participer au câblage du réseau­
+    Assurer la gestion et la supervision d’un réseau informatique­
+    Diagnostiquer et résoudre les problèmes du réseau informatique­
+    Installer, gérer et sécuriser les éléments actifs d’un réseau étendu
+
+
+
+
+Organisation de la formation:
+
+Le programme de formation est dispensé sur 21 modules en 1863 heures réparties sur deux années de formation. Un stage d’observation (1 mois) est programmé à la fin de la première année et un stage technique (2 mois) est programmé à la fin de formation.
+
+Modules :
+
+    Arabe
+    Communication écrite et orale
+    Anglais technique
+    Entrepreneurship
+    Métier et formation dans les NTIC
+    L'entreprise et son environnement, Production de documents et Gestion de temps
+    L’essentiel en technologie de l’information
+    Bureautique
+    Système d'exploitation Client Windows
+    Programmation structurée
+    Système d'exploitation Open Source
+    Initiation aux réseaux
+    Notions de base sur le routage et la commutation
+    Evolutivité des réseaux
+    Administration réseau sous Windows
+    Interconnexion des réseaux
+    Administration réseau sous Linux
+    Sécurité des réseaux informatiques
+    Projet de Fin de Formation
+    Moyens de Recherche d'emploi
+    Stage en entreprise
+
