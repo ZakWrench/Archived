@@ -1,0 +1,79 @@
+Non inscrit Marocain bac
+
+Gender
+Ville
+Filliere
+Mention
+Bourse
+Annee d'inscription
+Annee d'obtention(2021) <<
+Age(generated 17 10% | 18 40% | 19 40% | 20 10%) <<
+
+Etat
+-----------------
+
+Non inscrit Marocain +
+
+Gender
+Age
+Filliere
+Mention
+Bourse 
+Annee d'obtention
+Annee d'inscription
+Ville
+
+Etat
+
+--------------------
+Non inscrit Afrique bac et +(minimal +)
+
+Gender
+Age
+Pays
+Filliere
+Annee d'inscription
+Mention
+Bourse
+
+Etat
+
+---------------------
+
+Inscrit Marocain et Afrique Bac et +
+
+Gender
+Age
+Ville/Pays
+Fillere
+Annee d'obtention
+Annee d'inscription
+Mention
+Bourse
+
+Etat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

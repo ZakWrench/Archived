@@ -1,0 +1,7 @@
+= IF((((C2*12)*30)/100)>30000, 1,0) > wageafford
+yearly wage: 
+
+
+
+if mention(bien,tresbien,none) =IF(E2=4,50, IF(E2=3,30,0)) 
+if mention > scholarship =IF(F2>0,IF(C2> ((30000*F2)/100),1),0)

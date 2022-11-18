@@ -1,0 +1,3 @@
+choose the k number of datapoints to consider near observation.
+k = squareroot(numbers of rows|datasets), and result should be odd where k % 2 == 1
+categorize using a grid search algorithm, cross validation

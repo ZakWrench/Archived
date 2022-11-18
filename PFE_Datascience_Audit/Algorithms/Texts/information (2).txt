@@ -1,0 +1,56 @@
+Ville:
+BENI MELLAL:1
+AZILAL:2
+FKIH BEN SALAH:3
+KHENIFRA:4
+KHOURIBGA:5
+KASBAT TADLA:6
+Rural:7
+
+
+
+
+
+Filliere:
+PC:1
+MATH A/B:2
+SVT:3
+STE:4
+ECO:5
+
+
+
+
+Note:
+Interet:
+Contact:
+Etat:
+
+
+
+
+
+
+
+
+=IF(C2=”Yes”,1,2)
+=IF(A2="BENI MELLAL",1,IF(
+
+
+Ville:
+=IF(A2="BENI MELLAL",1,IF(A2="AZILAL",2,IF(A2="FKIH BEN SALAH",3,IF(A2="KHENIFRA",4,IF(A2="KHOURIBGA",5,IF(A2="KASBAT TADLA",6,7))))))
+=IF(A2="BENI MELLAL",1,IF(A2="AZILAL",2,IF(A2="FKIH BEN SALAH",3,IF(A2="KHENIFRA",4,IF(A2="KHOURIBGA",5,IF(A2="KASBAT TADLA",6,7
+Filliere:
+=IF(B2="PC",1,IF(B2="SMA",2,IF(B2="SMB",2,IF(B2="SVT",3,IF(B2="STE",4,5)))))
+
+Notes(Mention):
+
+
+
+
+
+
+
+
+
+

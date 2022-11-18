@@ -1,0 +1,147 @@
+Doc 3: 
+Gender <- Nom DONE
+Ville <- Region 
+Filliere (svt/pc) <- bac+0
+Mention <- Note
+Interet (Medicine,Informatique)
+Commentaire <- Interet
+Etat
+
+
+
+Doc4:
+Gender 
+Age/Birthday
+Niveau Formation/Interet
+Filliere
+
+
+Niveau Formation(1->3, 1->2)
+Interet(MDA,ISI)
+Diplome Access(Bac +0->x)
+Series Bac(A,B,C,SVT,PC)
+Annes d'obtention (2019)
+Specialite Bac + x(TS,BTs)
+
+
+Countries:
+Gabon 11 ||
+
+ACA Economie
+A2 Lettre
+B Humaine
+A1 Humaine
+C PC
+D SVT
+
+Cote D'ivoire 7 ||
+
+A2 Lettre
+A1 Lettre
+D SVT
+
+Republique Democratique Du Congo 5 ||
+
+D SVT
+Chimie-Biologie 
+A4 Lettre
+Technique Industrielle- Mecanique machines- Outils
+
+Niger 5 ||
+
+D SVT
+C PC
+E Technique
+
+Republique Centrafricaine 4 ||
+
+B Lettre
+D SVT
+
+Benin 4 ||
+
+C PC
+D SVT
+
+Comores 3 ||
+
+A4 Humaine
+C Mathematics
+
+Burkina Faso 2 ||
+
+C PC
+D SVT
+
+Guinee 2 ||
+
+Science Mathematiques
+
+Senegal 1 ||
+
+L2 Lettre
+
+Tchad 1 ||
+
+A4 Lettre
+
+Togo 1 ||
+
+D SVT
+
+Madagascar 1 ||
+
+C Mathematics
+
+Maroc 18
+
+
+
+-Beni Mellal /54
+-Azilal /14
+-Fkih Ben Salah /33
+-Khenifra /6
+-Khouribga /21
+-Kasbat Tadla /3
+-Zaouiat Cheikh /1
+-Demnat /3
+-Souk Sebt /3
+-Bejaad /1
+-Oued Zem /2
+-Mrirt Khenifra /2
+
+
+
+
+
+Mention:
+
+=IF(G2<12,"P",IF(AND(G2<14,G2>11.99),"AB",IF(AND(G2<16,G2>13.99),"B",IF(AND(G2<20,G2>15.99),"TB","nonvalide"))))
+
+Age:
+
+=INT((B2-A2)/365)
+
+Bourse:
+
+=IF(OR(M2="B",M2="TB"),"Oui","Non")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

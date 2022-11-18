@@ -1,0 +1,63 @@
+8 years of range
+
+taking into account that the population of adolescents between the age of 14 an 19 is 49542(25423 are boys, 24117 are girls)
+we would estimate that the mean population between the age of 17 to 25 is 49542 / 5 = 9908 -> 9908 * 8 = 79267, basing on the median age of the total population between the age of 0 to 19 which is 197562(50126 age 0-4, 51665 age 5-9, 49542 age 10-14, 46229 age 15-19), the median age of 5 years difference is 49390
+
+median price of families: assuming the parents makes somewhere between 8000(6000) to 15000 in public schools, and between 10000 to 22000 in private schools, 
+
+bac: taking a range between 18-19 of age, around 18000 students plus an estimate of 800-1000 students who happens to change their school or field to a new one, 
+
+
+
+80000pop 17-25 age
+bac 1/0
+bac+0 info (scientifique), management(all(lettre,humaine,economique))
+bac0 (just got bac, or changing from previous)
+
+
+
+
+bac +1-4 
+
+
+
+
+
+
+
+
+32218 students > 22681 (94% public 6%privee) 
+reussite 55.54% > 59.96% (17866 + 1452 / 32218)
+17866 scientifique +eco
+1452 science hum
+
+idstudent
+gender
+filiere
+binary(reussite) | public/privee(valide/non valide)
+
+rec:wage > nn| create categories(mid class|high income > knn)
+1/3 parent wage 
+b
+
+667
+592
+
+variable to predict with: refe
+
+CATEGORY: >10000 -> the more wage the more people can afford. wage + scholarship (20-40% of parent wage)
+hypothese: expanses of tuition is third of parent's revenue. we have created a variable to determine whether they can afford or not.
+
+mention
+
+var: available income 1/x(
+var: if available income > monthly tuition then 1(afford) else 0(can't)
+var: scholarship, if available(0) + scholarship > monthly tuition then 1(afford) else(can't)
+
+(mention)
+
+
+
+
+
+

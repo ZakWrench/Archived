@@ -1,0 +1,72 @@
+Médecine 8
+Ena 3
+Economie 3
+Agriculture 1
+Info 2
+classes préparatoires 9
+Encg 3
+FST 10
+ESEF <- Education et formation 1
+UIR 2
+Pharmacie 5
+ISTA 1
+APesa 1
+ENSA 3
+INfirmierie 1
+ISIC <- Information et communicationv(I3lam) 1
+Dentaire 2
+ENSAM <- Art et Metiers 1
+Armee 2
+Esith <- Textiles et habillement 1
+Euromed <- Ecole Euro mediteraneenne de Fes 1
+
+non Inscrit : 22
+Inscrit : 2
+
+=COUNTIF(A2:A12,"Medici")
+
+ingénierie
+
+
+=IFERROR(INDEX($B$3:$B$15, MATCH(0,COUNTIF($D$2:D2, $B$3:$B$15), 0)),"")
+
+
+Medicine
+Pharmacie
+Infirmierie
+Dentaire
+
+Economie
+Encg
+FST
+
+CPGE
+
+EMSI
+UIR
+EuroMED
+
+ENSA
+FST
+EST
+
+ENA
+Apesa
+ISIC
+ESEF
+ENSAM
+Armee
+Esith
+
+
+Inscrit:
+
+
+
+
+
+
+
+
+
+

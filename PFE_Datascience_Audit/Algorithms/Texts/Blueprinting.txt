@@ -1,0 +1,59 @@
+-convert name to gender
+-Analyse stat
+Factors: Gender, City, Filliere, Note, Interest, Status
+
+File 1:
+Gender : 1 = Female, 2 = Male
+Filliere: PC = 1, MATH A/B = 2, SVT = 3, STE = 4, ECO = 5
+Ville: BENI MELLAL = 1, AZILAL = 2, FKIH BEN SALAH = 3, KHENIFRA = 4, KHOURIBGA = 5, KASBAT TADLA = 6, Rural = 7
+
+
+
+
+
+
+
+
+
+Homogenise three data available:
+Gender, City, Filliere, Note, Interest, Status
+Gender, Filliere, Note, Metier, Filliere d'interet, Ecole Prive, Status, Highschool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
