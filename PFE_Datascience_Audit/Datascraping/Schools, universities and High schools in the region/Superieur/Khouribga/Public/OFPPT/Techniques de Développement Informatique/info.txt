@@ -1,0 +1,58 @@
+Présentation de la formation
+
+Le Technicien Spécialisé en Développement Informatique est un professionnel en charge du développement et de la maintenance des applications informatiques. Il intervient, généralement pour le compte de Sociétés de Services et d’Ingénierie Informatiques, dans de nombreux domaines applicatifs (industrie, gestion, loisirs etc.). En amont du projet, le Technicien est réceptif aux attentes du client. Il étude avec précision un certain nombre de paramètres pour mener à bien sa mission il s'agit notamment du cahier des charges, des capacités de l’environnement technique, ainsi que des contraintes du système de production du client. En aval, Il participe à la mise en exploitation et au support technique de l’application.
+
+
+Profil de formation:
+
+A l’issue de la formation, le lauréat sera en mesure d'exécuter les activités suivantes :
+
+    Analyse et conception­
+    Analyser et Interpréter un cahier des charges­
+    Rédiger des spécifications fonctionnelles et techniques­
+    Réaliser des maquettes et des prototypes­
+    Concevoir des bases de données­
+    Concevoir une interface utilisateur dans un environnement Windows (GUI) ou Internet (IUI)
+    Au niveau de la réalisation Technique­
+    Réaliser des composants logiciels à l’aide d’un langage de programmation orientée objet
+    Assembler et Intégrer des composants logiciels­
+    Réaliser des tests unitaires et tests d’intégration­
+    Participer à la mise en exploitation et au support technique de l’application
+
+
+
+
+Organisation de la formation:
+
+Le programme de formation est dispensé sur 19 modules en 1848 heures réparties sur deux années de formation.
+
+Un stage d’observation (1 mois) est programmé à la fin de la première année et un stage technique (2 mois) est programmé à la fin de formation.
+
+Modules :
+
+    Arabe
+    Communication écrite et orale
+    Anglais technique
+    Entrepreneurship
+    Métier et formation dans les NTIC
+    L'entreprise et son environnement, Gestion du temps et Production de documents
+    L'essentiel en technologies de l'information
+    Bureautique
+    Programmation structurée
+    Programmation événementielle et Orientée Objet
+    Analyse et conception orientée objet
+    Bases de données
+    Développement d'application client/serveur
+    Développement web côté client
+    Développement web côté serveur
+    Développement d'applications mobiles
+    Projet de fin de formation
+    Moyens de recherche d'emploi
+    Stage en entreprise
+
+
+
+
+
+
+

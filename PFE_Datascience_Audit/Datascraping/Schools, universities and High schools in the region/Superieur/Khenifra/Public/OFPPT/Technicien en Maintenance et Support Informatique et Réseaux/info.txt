@@ -1,0 +1,55 @@
+Présentation de la formation:
+
+Le Technicien support et maintenance informatique et réseaux installe et déploie des logiciels, matériels informatiques et réseaux, en assure le support client et la maintenance préventive et curative.
+Il peut exercer son métier aussi bien dans des entreprises spécialisées en maintenance informatique que dans des entreprises non spécialisées mais utilisatrices d’informatique et auprès de tout type de clientèle allant de la grande entreprise au particulier.
+
+Il prend en charge le support technique auprès des utilisateurs et apporte des solutions aux différents problèmes qu’ils rencontrent dans l’utilisation des moyens informatiques.
+
+Profil de la formation:
+
+A l’issue de la formation, le stagiaire sera en mesure d’exécuter les opérations et les activités suivantes :
+
+    Au niveau du support technique
+        Assurer un support technique auprès des utilisateurs de l’informatique
+        Assurer la gestion du parc informatique de l’entreprise
+        Suivre et faire évoluer le dispositif informatique
+        Diagnostiquer et résoudre les problèmes sur les postes de travail 
+        Suivre et organiser le suivi des pannes et des interventions auprès des utilisateurs
+        Assurer le soutien technique à distance
+    Au niveau de la maintenance 
+        Dépanner les micro-ordinateurs et le réseau
+        Suivre et faire évoluer les systèmes d’exploitation
+        Au niveau système
+        Installer et administrer un poste de travail
+    Au niveau du réseau 
+        Participer au câblage du réseau
+        Assurer la maintenance de réseau informatique
+        Assurer la gestion et la supervision d’un réseau informatique
+        Diagnostiquer et résoudre les problèmes du réseau informatique
+        Installer, gérer et sécuriser les éléments actifs d’un réseau étendu
+
+Organisation de la formation:La durée de formation est étalée sur deux années. Le mode de formation est résidentiel ou alterné.
+
+Le programme de formation est dispensé sur 19 modules en 1923 heures réparties sur deux années de formation. Un stage d’observation (1 mois) est programmé à la fin de la première année et un stage technique (2 mois) est programmé à la fin de formation.   
+
+Modules:
+
+    Arabe
+    Communication écrite et orale
+    Anglais technique
+    Culture d'entreprenariat
+    Soft Skills
+    Métier et formation dans les NTIC
+    L'entreprise et son environnement + Production de documents + Gestion de temps
+    Bureautique
+    L'Essential en technologies de l'information
+    Système d'exploitation Open Source
+    Diagnostic et maintenance d'un poste de travail
+    Initiation aux réseaux 
+    Notions de base sur le routage et la commutation
+    Administration d'un réseau sous windows
+    Administration d'un réseau  sous linux
+    Sécurité d'un réseau 
+    Diagnostic et Maintenance d'un réseau 
+    Gestion d'interventions techniques
+    Stage en entreprise

@@ -1,0 +1,34 @@
+Présentation de la formation
+
+Le Technicien Spécialisé en Réseaux Informatiques est un professionnel chargé d’exploiter, sécuriser, optimiser et faire évoluer les ressources informatiques de l’entreprise.Il est le garant de la qualité du service attendu par l’informatique. Il prend en charge le support technique auprès des utilisateurs et apporte des solutions aux différents problèmes qu’ils rencontrent dans l’utilisation des moyens informatiques.
+Présentation de la formation.
+Le Technicien Spécialisé en Réseaux Informatiques est un professionnel chargé d’exploiter, sécuriser, optimiser et faire évoluer les ressources informatiques de l’entreprise.Il est le garant de la qualité du service attendu par l’informatique. Il prend en charge le support technique auprès des utilisateurs et apporte des solutions aux différents problèmes qu’ils rencontrent dans l’utilisation des moyens informatiques.
+
+Organisation de la formation:
+
+Le programme de formation est dispensé sur 21 modules en 1863 heures réparties sur deux années de formation. Un stage d’observation (1 mois) est programmé à la fin de la première année et un stage technique (2 mois) est programmé à la fin de formation.
+
+Modules :
+
+    Arabe
+    Communication écrite et orale
+    Anglais technique
+    Entrepreneurship
+    Métier et formation dans les NTIC
+    L'entreprise et son environnement, Production de documents et Gestion de temps
+    L’essentiel en technologie de l’information
+    Bureautique
+    Système d'exploitation Client Windows
+    Programmation structurée
+    Système d'exploitation Open Source
+    Initiation aux réseaux
+    Notions de base sur le routage et la commutation
+    Evolutivité des réseaux
+    Administration réseau sous Windows
+    Interconnexion des réseaux
+    Administration réseau sous Linux
+    Sécurité des réseaux informatiques
+    Projet de Fin de Formation
+    Moyens de Recherche d'emploi
+    Stage en entreprise
+
