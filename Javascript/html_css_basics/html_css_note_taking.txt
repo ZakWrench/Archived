@@ -1,0 +1,265 @@
+Nested elements <html> <body> <h1> <p>
+Start tag <html>, end tag </html>
+inside <html> element there's a <body> element, and <body> element has <h1>, <br>, and <p> element, and so on...
+
+attributes are options omitted inside tags <img src = "x.jpeg" alt = "image">
+HTML style attribute <tagname style = "property:value;">
+
+color values:rgb(x,y,z,0.4),#ff49a3,hsl(9,100%,80%,0.5)
+
+With CSS, you can control the colo, font, size of text, spacing between elements, how elements are positioned and lait out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more.
+The word cascading means that a style applied to a parent element will also apply to all children elements within the parent.
+If I set the color of the body text to "blue", all heading, paragraphs, and others text elements within the body will also get the same color(unless I specify something else).
+
+CSS can be added to HTML documents in 3 ways:
+inline: by using the style attribute inside HTML elements.
+internal: by using a <style> element in the <head> section.
+external: by using a <link> element to a link to an external CSS file
+
+Internal CSS is used to define a style for a single HTML page, it is defined in the <head> section of the page, within a <style> element.
+
+
+Table -> tr ->th // tr -> td
+border-style: dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden.
+
+Every HTML elements has a default display value. and there are two display values: block and inline.
+A block-level element always starts on a new line, and browsers automatically add some space(a margin) before and after the element.
+Block-level always takes up the full width available.
+Two commonly used block elements are : <p> and <div>
+<p> element dfines a paragraph in an HTML document.
+<div> element devines a division or a section in an HTML document.
+List of block levels elements in HTML:
+address, article, aside, blockquote, canvas, dd, div, dl, dt, fieldset, figcaption, figure, footer, form, h1/h6, header, hr, li, main, nav, noscript, ol, p, pre, section, table, tfoot, ul, video.
+
+Inline element does not start on a new line, and only takes up as much necessary width.
+<span>Hello world</span>
+List of inline elements in HTML:
+a, abbr, acronym, b , bdo, big, br, button, cite, code, dfn, em, i, img, input, kbd, label, map, object, output, q, samp, script, select, small, span, strong, sub, sup, textarea, time, tt, var.
+
+<div> element is often used as a container for other HTML element. It requires no attributes, but "style" "class" and "id" are common.
+When used together with CSS, the <div> element can be used to style blocks of content.
+
+class attribute is used to specify a class for an HTML element. class attribute is often used to point to a class name in a style sheet. it can also be used by a JavaScript to access and manipulate elements with a specific class name.
+
+Id attribute is used to specify a unique id for an HTML element.
+you cannot have more than one element with the same id in an html element.:
+#myHeader {
+	background-color:lightblue;
+	color: black;
+}
+
+<h1 id="myHeader">header with id </h1>
+
+Class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page:
+
+Bookmarks allows readers to jump to specific parts of a webpage:
+<h2 id = "c4"> chapter 4 </h2>
+<a href ="#c4"> jump to chapter 4 </a>
+<a href = "1.html#c4> jump to chapter 4 </a>
+
+
+iframes is used to display a webpage within a webpage.
+
+the <head> element contains the following elements: title, style, meta, link, script and base.
+
+<base> element specifies the base rl and or target for all relative URLs in a page.
+it must have an href or target attribute present or both. and there can only be one single <base> in a document.
+
+<kbd> define keyboard input, <samp> defines sample output from a computer program, <code> define a piece of computer code, < var> defines a variable in programming or a mathematical expression
+<pre> defines preformatted text.
+
+URL(Uniform Resource Locator): scheme://prefix.domain:port/path/filename
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+h1 { color:blue; font-size:12px;}
+h1 : selector
+color/font-size: Property
+blue/12px: Value
+
+Categories of selectors:
+-Simple selectors: select based on name, id, or class.
+-Pseudo-class selector: select elements based on a certain state.
+-Combinator selectors: select elements based on a specific relationship between them.
+-Pseudo-element selectors: select and style a part of an element.
+-Attribute selectors: select elements based on an attribute or attribute value.
+
+CSS support 140 standard color name
+
+* { } universal selector
+h1, h2, p { } grouping
+/* comment */
+background-image: url("paper.gif") / background-repeat: repeat-x/no-repeat; background-position: right top; margin-right: 200px;
+background-attachement: fixed/scroll;
+
+body { background-color: #ffffff; background-image: url("image.gif"); background-repeat: no-repeat; background-position: right top; }
+ -> can be shortened as : body { background: #ffffff url("image.gif") no-repeat right top; }
+the order of the properties are of follow:
+color > image > repeat > attachement > position.
+
+-border styles: dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden, dotted dashed solid double(mixed)
+-border-width: 5px/medium/thick;
+border width: 5px 20px; /* 5px top and bottom, 20px on the side */
+border-width: 5px 10px 20px 25px;
+-border-color: green/green red blue yellow;#ffffff; rgb(255,0,0);hsla(0,100%,50%,0.3);
+-border-top-style: dotted; border-right-style: solid; border-bottom-style: dotted; border-left-style: solid; or border-style: dotted solid dotted solid;
+-shorthand border property: width > style > color : border : 5px solid red; if you want to mix up use borser-top/right/bottom/left without style.
+-border-radius: 5px;
+
+
+-Margin:
+Margin-top: 100px;
+margin-bottom: 80px; /right/left.
+shorthand property: top > right > bottom > left:
+margin: 20px 24px 40px 10px; or margin: 25px 50 px 70px (left and right is 50px); margin: 25px 50px(top and bottom 25px, right and left 50px)
+-p.ex2 {margin: inherit;} <div><p class="ex1">
+-margin collapse: h1 { margin: 0 0 50px 0;} h2 { margin: 20px 0 0 0 }
+
+-div{ height: 200px; width: 50%;} has height of 100px and width of 500px.
+use max-width instead to avoid horizontal bar: max-width: 500px; height: 100px;
+
+-Outline: unlike border, the outline is drawn outside the element's border, and may overlap other content, not part of the elmenent's dimensions, hence the element's total width and height is not affected by the width of the outline.
+outline-style, outline-color, outline-width, outline-offset, outline
+outline-width:thin/medium/thick/20px
+outline-color: red;
+-Shorthand property: width > style > color : outline: 5px solid yellow;
+-Outline offset: add space between an outline and the edge/border of an element. the space is transparent.
+outline-offset: 15px;
+
+-CSS text:
+-color:red; text-align: center/left/right/justify(like newspapers and magazines)
+-direction: rtl (right to left text swap)
+-vertical-aligh: baseline/text-top/text-bottom/sub/super
+-text-decoration-line: overline/line-through/underline/overline underline;
+text-decoration-color:;
+text-decoration-line:overline; text-decoration-style: double/dotted...; text-decoration-thickness: auto/4px; 
+Shorthand property: line > color > style > thickness: text-decoration: underline red double 5px;
+(text-decoration: none; to remove the underline from links)
+
+-text-transform: uppercase/lowercase/capitalize;
+-Text spacing: text-indent: 50px;
+letter-spacing: 5px;
+line-height: 0.8/1.8;
+word-spacing: 10px;
+white-space: nowrap; text shows on the same line
+text-shadow: 2px 3px 5px red (2px horizontal shadow and 3 px vertical shadow 5px blur)
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+
+Font: 
+font-family: define font as a fallback system to ensure maximun compatibility between browsers/OS.
+font-family: "Time New Roman", Times, serif, Arial;
+.p1 { font-family: Arial, Helvetica, sans-serif; }
+
+Web safe fonts list:
+Arial, Verdana, Helvetica, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT.
+Font fallbacks: 5 generic font families:
+Serif, Sans-serif, Monospace, Cursive, Fantasy.
+
+font-style: normal/italic/oblique(mostly used to specify italic text)
+font-weight: normal/bold;
+font-variant: normal/small-caps
+font-size: 40px;2.5em;100%
+<h1 style="font-size: 10vw">Hello</h1>
+
+Google fonts:
+<head> <link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Sofia|Audiowide|Trirong">
+<style> body { font-family: "Sofia", sans-serif; } </style></head>
+
+Enabling font effects: <h1 class ="font-effect-fire"> Sofia </h1>
+
+Consider font pairing, seek popular google font pairings: Ubuntu and Lora/ Abril Fatface and Poppins/ Cinzel and Fauna One
+
+Shorthand: style > variant > weight > size/line-height > family. font-size and font-family are required:
+font: 20px Arial small-caps bold 12px/30px Georgia, serif;
+
+-Icons:
+<script src = "https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<i class="fas fa-cloud"></i>
+<i class="fas fas-car"></i>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<i class="glyphicon glyphicon-cloud"></i>
+<i class="glyphicon glyphicon-thumbs-up"></i>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<i class ="material-icons">cloud</i>
+<i class ="material-icons">computer</i>
+
+Links:
+a:link -> a normal, unvisited link
+a:visited: a link the user has visited
+a:hover -> a link when the user mouses over it
+a:active -> a link the moment it is clicked
+
+List:
+ul.a {
+list-style-type:circle;
+list-style-image: url'image.gif');
+list-style-position: outside/inside;
+}
+on.d {
+list-style-type: upper-roman;
+}
+list-style-type: circle, square upper-roman, lower-alpha, none;
+
+shorthand property: type > position > image
+list-style:square inside url('image.gif');
+
+color: ol { background: #ff9999; padding: 20px; padding: 5px; margin-left: 35px; }
+ol li /ul li { background:#ff0033; color: darkblue; margin: 5px;}
+
+table:
+table, th, td { border: 1px solid; width 100%; height: 70px; }
+table { border-collapse: collapse; width: 80%;}
+td { height: 70px; vertical-align: top;}
+th, td { padding: 15px; text-align: left; border-bottom: 1px solid #ddd }
+Hover: tr:hover {background-color: coral;}
+background color: th { background-color: #04AA6D; color: white;}
+stripped tables: tr:nth-child(even) { background-color: #f2f2f2; color: white;}
+Responsive: <div style = "overflow-x:auto;"> <table> ... </table></div>
+
+Override defauly display :
+li/div{ display : inline;}
+span { display: block; }
+
+Positioning:
+div.sticky { 
+position: -webkit-sticky; /*Safari*/
+position: sticky;relative;absolut;fixed,static
+positioning properties:bottom/left/right/top, clip, position
+
+z-index:
+z-index:-1, 1, 2
+
+overflow:visible -> content won't be clipped and will renders outside the element box.
+overflow:hidden -> overflow is clipped, and the rest of content is hidden.
+overflow:scroll -> overflow is clipped, and scroll bar is added to scroll inside the box. both a horizontal or a vertical bar
+overflow:auto -> similar to scroll but will add scrollbars only when necessary.
+overflow-x: hidden; > hide horizontal scrollbar
+overflow-y: scroll; add vertical scrollbar
+
+Float
+float: left/right/none/both/inherit;
+.clearfix::after{ content:"";
+clear: both;
+display: table;
+}
+box-sizing: border-box;
+.box { flaot: left; width: 33.33%; padding:px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

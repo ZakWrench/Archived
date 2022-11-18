@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <title>Javascript2</title>
+  <head>
+    <style>
+      div {
+        color: black;
+      }
+      div > div {
+        margin-left: 0.5rem;
+        padding-left: 0.25rem;
+        border-left: 1px solid #777;
+      }
+    </style>
+    <script defer type="text/javascript" src="DOM_Traversal.js"></script>
+  </head>
+
+  <body>
+    <div id="grand-parent">
+      Grand Parent
+      <div>
+        Parent 1
+        <div id="child-one">Child 1</div>
+        <div>Child 2</div>
+      </div>
+      <div>Parent 2</div>
+    </div>
+    <br />
+    <div class="grand-parent">
+      Grand Parent
+      <div>
+        Parent 1
+        <div id="child-one2">Child 1</div>
+        <div>Child 2</div>
+      </div>
+      <div>Parent 2</div>
+    </div>
+    <br />
+    <br />
+
+    <div id="grand-parent2">
+      Grand Parent
+      <div class="red">
+        Parent 1
+        <div class="child">Child 1</div>
+        <div class="child">Child 2</div>
+      </div>
+      <div>Parent 2</div>
+    </div>
+  </body>
+</html>
