@@ -1,0 +1,22 @@
+Three types of missing data:
+1-MCAR(Missing Completely at Random):Data that is missing completely at random.
+2-MAR:Data that is missing at random
+3-MNAR: Data that is missing not at random
+
+
+NA is different from zero or blank values, and represent Missing values.
+
+Aggregate funcions summarize the data in dataset.
+examples: Mean/average, Median, Maximun/Minimum, Sum.
+
+
+Duplicated rows aren't necessarily incorrect. They may be valid. for example two different person having the same name, or the same customer ordering different products.
+Identical Rows: remove completely identical rows using the unique() function.
+Overlapping Rows: Remove duplicative(but not identical) records by filtering out the incorrect values(manually)
+
+mutate create a variable or modify an existing one.
+
+When it comes to currencies, we must identify the type of the currency. And also the formatting of currency values may cause issues when importing data.
+
+
+

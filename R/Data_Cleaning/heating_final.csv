@@ -1,0 +1,113 @@
+"Source","age","homes"
+"Warm-air furnace","Under 25 years old",2546
+"Steam or hot water system","Under 25 years old",326
+"Electric heat pump","Under 25 years old",529
+"Built-in electric units","Under 25 years old",280
+"Floor, wall, or other built-in hot-air units without ducts","Under 25 years old",267
+"Room heaters with flue","Under 25 years old",15
+"Room heaters without flue","Under 25 years old",18
+"Portable electric heaters","Under 25 years old",122
+"Stoves","Under 25 years old",23
+"Fireplaces with inserts","Under 25 years old",11
+"Fireplaces without inserts","Under 25 years old",6
+"Cooking stove","Under 25 years old",0
+"Other","Under 25 years old",18
+"None","Under 25 years old",43
+"Warm-air furnace","25 to 29 years old",5061
+"Steam or hot water system","25 to 29 years old",672
+"Electric heat pump","25 to 29 years old",919
+"Built-in electric units","25 to 29 years old",430
+"Floor, wall, or other built-in hot-air units without ducts","25 to 29 years old",423
+"Room heaters with flue","25 to 29 years old",29
+"Room heaters without flue","25 to 29 years old",38
+"Portable electric heaters","25 to 29 years old",112
+"Stoves","25 to 29 years old",35
+"Fireplaces with inserts","25 to 29 years old",13
+"Fireplaces without inserts","25 to 29 years old",4
+"Cooking stove","25 to 29 years old",0
+"Other","25 to 29 years old",48
+"None","25 to 29 years old",77
+"Warm-air furnace","30 to 34 years old",6701
+"Steam or hot water system","30 to 34 years old",926
+"Electric heat pump","30 to 34 years old",1106
+"Built-in electric units","30 to 34 years old",471
+"Floor, wall, or other built-in hot-air units without ducts","30 to 34 years old",513
+"Room heaters with flue","30 to 34 years old",66
+"Room heaters without flue","30 to 34 years old",42
+"Portable electric heaters","30 to 34 years old",167
+"Stoves","30 to 34 years old",38
+"Fireplaces with inserts","30 to 34 years old",14
+"Fireplaces without inserts","30 to 34 years old",1
+"Cooking stove","30 to 34 years old",0
+"Other","30 to 34 years old",57
+"None","30 to 34 years old",63
+"Warm-air furnace","35 to 44 years old",13609
+"Steam or hot water system","35 to 44 years old",1718
+"Electric heat pump","35 to 44 years old",2288
+"Built-in electric units","35 to 44 years old",680
+"Floor, wall, or other built-in hot-air units without ducts","35 to 44 years old",1153
+"Room heaters with flue","35 to 44 years old",120
+"Room heaters without flue","35 to 44 years old",57
+"Portable electric heaters","35 to 44 years old",276
+"Stoves","35 to 44 years old",228
+"Fireplaces with inserts","35 to 44 years old",22
+"Fireplaces without inserts","35 to 44 years old",17
+"Cooking stove","35 to 44 years old",22
+"Other","35 to 44 years old",154
+"None","35 to 44 years old",151
+"Warm-air furnace","45 to 54 years old",15348
+"Steam or hot water system","45 to 54 years old",2137
+"Electric heat pump","45 to 54 years old",2733
+"Built-in electric units","45 to 54 years old",776
+"Floor, wall, or other built-in hot-air units without ducts","45 to 54 years old",1188
+"Room heaters with flue","45 to 54 years old",176
+"Room heaters without flue","45 to 54 years old",139
+"Portable electric heaters","45 to 54 years old",339
+"Stoves","45 to 54 years old",254
+"Fireplaces with inserts","45 to 54 years old",55
+"Fireplaces without inserts","45 to 54 years old",29
+"Cooking stove","45 to 54 years old",20
+"Other","45 to 54 years old",193
+"None","45 to 54 years old",118
+"Warm-air furnace","55 to 64 years old",15172
+"Steam or hot water system","55 to 64 years old",2325
+"Electric heat pump","55 to 64 years old",2848
+"Built-in electric units","55 to 64 years old",901
+"Floor, wall, or other built-in hot-air units without ducts","55 to 64 years old",1023
+"Room heaters with flue","55 to 64 years old",153
+"Room heaters without flue","55 to 64 years old",166
+"Portable electric heaters","55 to 64 years old",436
+"Stoves","55 to 64 years old",336
+"Fireplaces with inserts","55 to 64 years old",58
+"Fireplaces without inserts","55 to 64 years old",9
+"Cooking stove","55 to 64 years old",11
+"Other","55 to 64 years old",236
+"None","55 to 64 years old",168
+"Warm-air furnace","65 to 74 years old",10380
+"Steam or hot water system","65 to 74 years old",1556
+"Electric heat pump","65 to 74 years old",2010
+"Built-in electric units","65 to 74 years old",542
+"Floor, wall, or other built-in hot-air units without ducts","65 to 74 years old",790
+"Room heaters with flue","65 to 74 years old",104
+"Room heaters without flue","65 to 74 years old",99
+"Portable electric heaters","65 to 74 years old",261
+"Stoves","65 to 74 years old",205
+"Fireplaces with inserts","65 to 74 years old",22
+"Fireplaces without inserts","65 to 74 years old",12
+"Cooking stove","65 to 74 years old",11
+"Other","65 to 74 years old",137
+"None","65 to 74 years old",122
+"Warm-air furnace","75 years old and over",7389
+"Steam or hot water system","75 years old and over",1260
+"Electric heat pump","75 years old and over",1546
+"Built-in electric units","75 years old and over",535
+"Floor, wall, or other built-in hot-air units without ducts","75 years old and over",606
+"Room heaters with flue","75 years old and over",113
+"Room heaters without flue","75 years old and over",89
+"Portable electric heaters","75 years old and over",166
+"Stoves","75 years old and over",80
+"Fireplaces with inserts","75 years old and over",16
+"Fireplaces without inserts","75 years old and over",10
+"Cooking stove","75 years old and over",3
+"Other","75 years old and over",75
+"None","75 years old and over",74
