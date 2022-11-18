@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mergedImages</folder>
+	<filename>169.jpeg</filename>
+	<path>/home/zak/Desktop/Automatic Number Plate Recognition, OCR Web App in Python 7h/mergedImages/169.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>1</ymin>
+			<xmax>507</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
