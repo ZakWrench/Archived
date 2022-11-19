@@ -1,0 +1,20 @@
+KNN: 70-30
+LR: 80-20
+DT:80-20
+
+
+
+
+
+La figure x illustre la précision du modèle pour différentes valeurs de coupure allant de 0,0 à 1,0. La précision du modèle augmente jusqu'à ce qu'il atteigne son maximum de 95,74% à une valeur de coupure de 0,6. À partir de seuils de 0,6, la précision des modèles diminue et ne montre aucune preuve d'amélioration.
+
+Les graphiques de courbe ROC (Receiver operating features) (ROC) sont utiles pour organiser les classificateurs et visualiser leurs performances [3]. Il s'agit d'un graphique du taux de vrais positifs par rapport au taux de faux positifs pour toutes les valeurs seuils possibles [4]. La figure 4 montre la courbe ROC affichant toutes les combinaisons possibles de décisions correctes et incorrectes basées sur des valeurs seuil allant de 0,0 à 1,0. L'aire sous cette courbe ROC est de 0.931, ce qui indique en général l'efficacité du modèle. La meilleure AUC possible est de 1 tandis que la pire est de 0,5 (la ligne aléatoire à 45 degrés). Nous pouvons utiliser la courbe ROC pour examiner l'efficacité de différents modèles lorsque l'ensemble de données donné est déséquilibré.
+https://towardsdatascience.com/optimizing-logistic-regression-with-different-cutoff-values-174b6e56ea8d
+#pos (actual) --and-- predicted(pos) -> correctly identified -> true pos
+#neg (actual) --and-- predicted(pos) -> incorrectly identified -> False pos
+#pos (actual) --and-- predicted(not pos) -> incorrectly rejected -> false neg
+#neg (actual) --and-- predicted(not pos) -> correctly rejected -> true neg
+
+
+
+
