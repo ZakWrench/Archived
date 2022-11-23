@@ -1,0 +1,70 @@
+docker run --name repo alpine/git clone \https://gitgub.com/docker/getting-started.git docker cp repo:/git/getting-started
+
+cd getting-started
+docker build -t dockertutorial101
+
+start a container: docker run -d -p 80:80 --name docker-tutorial docker101tutorial
+
+share: docker tag docker101tutorial wrenchzak/docker101tutorial
+docker push wrenchzak/docker101tutorial
+
+docker run hello-world
+
+-----------Manipulating Containers with the docker client----------
+
+-- Override:
+docker run busybox echo hi there 
+
+-- Listing running containers:
+docker ps
+docker run busybox ping google.com
+docker stop "id"
+docker ps --all
+
+--Container lifecycle
+docker run = docker create + docker start
+create container: take a snapshot of the image and put into the hard drive
+start container: execute the startup command
+
+docker create hello-world
+docker start -a "id"8a964abd9889c9568157d45ff7c07a97008458d3cfaf22b9a9620053c75a8d5d
+
+--Restarting stopped containers
+docker run busybox echo hi there
+docker ps --all
+docker start -a "id"
+
+--Removing stopped containers
+docker ps --all
+docker system prune
+
+--Retrieving log output
+docker create busybox echo hi there
+docker start "id"
+docker logs "id"
+
+--Stopping Containers
+docker create busybox ping google.com
+docker start "id"
+docker logs "id"
+docker stop "id" (SIGTERM: terminate signal) > resolve to kill after 10secs
+docker kill "id" (SIGKILL: immediate shutdown)
+
+--Multi-Command Containers
+docker run redis
+
+--Executing Commands in Running Containers
+winpty docker exec -it "id" redis-cli(command)
+
+--Getting a Command Prompt in a Container
+winpty docker exec -it "id" sh
+(inside linux through shell)
+redis-cli
+
+--Starting with a Shell
+docker run -it busybox sh
+
+--Containers Isolation
+docker run -it busybox sh
+docker run -it busybox sh
+each have a unique id hence they're unique containers not sharing the same filesystem.
