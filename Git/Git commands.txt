@@ -1,0 +1,121 @@
+BASICS:
+
+git init: intialise repository
+git status
+git add "file" | .
+git commit -m(message) "Added first .txt file"
+git log: commit id,author,date,commit message.
+git checkout "id" | master
+git branch
+git branch second-branch2 -> git checkout second-branch | git checkout -b third-branch
+git merge third-branch
+git switch -c fourth-branch = git checkout -b third-branch
+
+git ls-files : shows all file in the staged area
+git add/rm working-with-branches.txt -git status> git commit -m "file deleted" -git status> 
+git checkout -- initial-commit.txt second-commit.txt | git checkout .: reverse changes made in unstaging area
+git restore .| initial-commit.txt
+git clean test.txt -dn -> git clean -df: clean untracked 
+Staged changes: git restore --staged second-commit.txt -> git checkout second-commit.txt (unstaged)
+Deleting Commits: git reset --soft|hard HEAD~1 | git reset HEAD~1 -> git ls-files
+soft : removing LATEST commit and keeping changes in working dir and stagin area. | Hard: removing the commit, removing the changes from working dir and staging area
+Deleting Branches: git branch -d|D second-branch third-branch
+
+Detached head:
+git checkout id(detached head) -> git log -> modify/add data -> git status -> git add . -> git status -> git commit -m "changes made in detached head" -> git branch -> git branch "branchname" id(detached head id) -> git switch "branchname" -> git switch master -> git merge branchname
+
+Ignore files:
+.gitignore: file.txt | file*.txt | folder/* | folder/file.txt | !file.log
+-----------------
+Recap
+Staging area: git add file-1.txt file-2.txt -> git commit -m "added text files" -> git checkout -b feature -> git add file-3.txt -> git commit -m "added file-3.txt" ->
+-> (mod file-3.txt) -> git add file-3.txt -> git status -> git restore --staged file-3.txt -> git checkout file-3.txt ->(add to main/master branch) + (add text to file-3.txt) ->
+-> git add file-3.txt -> git commit -m "Added text to file-3.txt" -> git switch master -> git merge feature -> git branch -D feature
+
+----------------------------------------------------------------------------------------------------
+DEEP DIVE
+
+STASH:
+git stash -> git stash apply "index"
+git stash list : top is latest stash data
+git stash push -m "third feature added"
+git stash pop "index"
+git stash drop "index" | git stash clear
+
+REFLOG:
+(git reset --hard HEAD~1)
+git reflog: list all commit in last 30days -> git reset --hard "commit id"
+git checkout -b feature -> (mods/add/commit) -> git branch -D feature -> git reflog -> git checkout "id" -> git switch -c feature | git checkout -b feature
+
+FAST-FORWARD MERGE
+create/add/commit m1 -> create/add/commit m2 -> switch -c feature -> create/add/commit f1 -> create/add/commit f2 -> switch master -> merge feature
+Undo: git reset --hard HEAD~2 -> git checkout feature
+switch master -> git merge --squash feature(put all commits into one commit) -> commit -?> git reset --hard HEAD~1
+
+RECURSIVE MERGE
+git merge --no-ff feature -> git log ---> git reset --hard HEAD~1 -> switch master > add/commit m3 -> git merge feature
+git merge --squash feature 
+
+REBASE
+switch feature -> git rebase master -> switch master > git merge feature
+
+MERGE CONFLICTS
+git merge --abort: when not wanting the feature changes applied
+git log --merge:Identify commits to be merge
+
+CHERRY-PICK:
+git cherry-pick "id": different id because commit copy
+
+ANNOTATED TAGS/TEMPORARY TAGS:
+lightweight tag: git tag 1.0 "id" -> git tag -> git show 1.0 -> git tag -d  1.0
+annotated tag: git tag -a  2.0 -m "This is the latest version" -> git tag -> git show 2.0 -> git tag -d 2.0
+
+----------------------------------------------------------------------------------------------------
+FROM LOCAL TO REMOTE - GITHUB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------
+git config user.name
+git config user.email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

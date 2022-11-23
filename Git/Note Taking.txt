@@ -1,0 +1,82 @@
+Version Management/Control: Control&Tracking of code changes over time.
+-Multiple Files approach: first draft, second draft.. final.
+
+Git: Version Control System - Manage Code History - Track Changes
+Github: Largest development Platform - Cloud Hosting & Collaboration Priver - Git Repository Hosting
+
+Course Content: Git: Commit & Branches (The basics) - Merging, Rebasing & and More Deep Dive
+Github: Local Vs Remote Repositories(Basics) - Pull requests, Organizations & More Deep Dive
+---------------------------------
+
+
+Working Dir/tree: index.html, styles.css, files... the files that meant to be managed by GIT
+Repository: .git(hidden): Staging Area(Index file), Commits(Objects Folder) contain all commit snapshots
+Master Branch:
+Stagin Area:
+
+
+Add file -> commit file
+
+commit : snapshot in the end "snapshot1:add file1/2/3" -> "snapshot2:file3 change" -> "snapshot3:add file4"
+git store all this changes in the master(main) BRANCH that contains all changes made on the project.
+
+working dir(styles.css) -> staging area(style.css) hey these changes should be part of the next commit -> commit 
+
+git means tracking changes not storing files again and again
+
+---------------
+
+Branches: there's master branch that represent the live app/website, and then copy of the branch to add modifications before live implementation.
+merging branches
+-------------
+
+git add: adds it to the staging area
+ --------
+ head is the latest commit.
+ detached-head is when you working on a specific commit via its id: git checkout id
+ 
+--
+
+git switch is specific to working on branches
+
+---
+
+when deleting a file in the working directory, the file is still in the staging area
+
+----
+Detached head state when checkout a specific commit with id
+----
+Tracked - Untracked - Ignore
+----------------------------------------------------------------------------------------------------------
+Deep Dive:
+
+Stash: Where you can save uncommited unstaged changes.
+Reflog: last 30 days of changes.
+Rebasing: creates new commits with new ids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

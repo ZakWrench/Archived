@@ -1,0 +1,17 @@
+Z-Shell:
+pwd:print working dir
+ls:list
+cd:change dir
+cd /:root dir
+cd /Users:users dir
+cd ~: Home dir
+touch: create file
+mkdir: create dir
+r: delete file
+rmdir: delete empty folder
+cp: copy file/folder
+mv:move file/folder
+
+
+CMD:
+dir:print working dir
